@@ -18,7 +18,7 @@ assert(not datos["Post"].isna().any())
 
 # %%
 # Remove all emojis from Post, due to possible unexpected influence over sentiment
-datos["Post"] = datos["Post"].apply(remove_emojis)
+datos["Post"] = datos["Post"].apply(lambda post: remove_emojis(post).strip())
 datos
 
 # %%
