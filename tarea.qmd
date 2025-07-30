@@ -1,0 +1,91 @@
+---
+title: Caso práctico de asistente de innovación con GenAI
+author: "Lucio Cornejo"
+date: "`r Sys.Date()`"
+format: 
+  html:
+    self-contained: true
+    toc: true
+    toc-depth: 3
+    toc-location: left
+    theme: united
+    highlight-style: tango
+    toc-float: 
+      collapsed: false
+      smooth-scroll: true
+---
+
+## Tareas
+
+### Pipeline automatizado
+
+- Pipeline de ejecución recurrente
+    1. Extracción
+        - **Herramienta:** `Brandwatch`
+        - **Recurrencia**: Ejecución diaria para scraping de publicaciones
+        publicas en redes sociales como Twitter, Facebook e Instagram.
+        El query incluye filtros por inclusión de nombres de retails conocidos, 
+        tales como "real plaza", "saga falabella", entre otros.
+        - **Host**: Los datos recopilados se almacenan en una base de datos alojada
+        en la nube. Esta base contendría, por ejemplo, los datos proporcionados para 
+        este escenario práctico.
+
+    1. Procesamiento
+        - **Herramientas:** `AWS ECS`, `AWS CloudWatch`
+        - **Recurrencia**: Ejecución diaria orquestrada por medio de `AWS CloudWatch`, con el fin de una ejecución automática.
+        - **Objetivo**: El código se encarga de filtrar los registros de la base de datos previamente mencionada, para los cuales aún no se haya extraído sus atributos extra 
+        (en este escenario se planteó `institution`, `keywords` y `main_keyword`)
+        , con el fin de realizar los queries con el API de OpenAI.
+        Tras la validación final de los datos procesados, los registros de la base
+        de datos son actualizados respecto a sus nuevos atributos asignados.
+        Antes de culimnar este código, este se encarga de activar otra *ECS Task*,
+        la cual se encargará de la generación de insights.
+  
+
+    1. Generación de insights
+        - **Herramienta:** `AWS ECS`, `AWS SES`
+        - **Recurrencia**: Misma recurrencia que la del procesamiento.
+        - **Objetivo**: En la base de datos se tienen por lo menos tres tablas.
+        Una cuenta con los atributos *keyword* y *main_keyword*, con el fin de tener
+        una categorización concisa de subtemáticas y su temática general.
+        La segunda tabla, vinculada a la primera, presenta los atributos 
+        *main_keyword* y *risk_level*, donde manualmente se ha asignado alguna vez
+        un nivel de riesgo para la temática general. 
+        Por ejemplo, nivel "Alto" para temática general "delincuencia".
+        La tercera tabla, vinculada a las dos tablas previas, consiste de los
+        atributos *main_keyword*, *risk_level*, *institution* y *last_update_date*.
+        En esta última tabla se actualiza diariamente, 
+        para cada institución parte del scraping, 
+        el nivel de riespo reputacional (*risk_level*),
+        en base a una elección entre el *risk_level* asociado 
+        a las *main_keyword* de las útlimas publicaciones sobre la institución.
+        Esta elección podría ser algún tipo de ponderado (asignando números al
+        nivel de riesgo y teniendo en cuenta el número total de interacciones del post o algúna métrica relevante de interacción); o tal vez asignar el 
+        riesgo más alto, entre todos los útlimos riesgos asociados.
+        De esa manera, es posible, por ejemplo, implementar un sistema de 
+        alertas automáticas por correo cuando alguna institución en particular
+        presenta un alto (o como se prefiera establecer de umbral) 
+        riesgo de reputación.
+
+    1. Presentación
+        - **Herramienta:** `AWS S3`, `Vite + React + TypeScript`
+        - **Recurrencia**: Misma recurrencia que la del procesamiento, pues
+        se actualiza automáticamente cuando se actualiza las tablas respectivas
+        de la base de datos.
+        - **Objetivo**: Construcción de un Dashboard interactivo que se conecta directamente
+        a la base de datos. De esa manera, cuando se actualicen registros respectivos
+        en la base de datos, los componentes y gráficos del Dashboard se actualizan automáticamente.
+        Estos son algunos de los gráficos que podrían incluirse en el Dashboard:
+            - Reputación histórica por institución
+                - Usuario selecciona insitución de interés
+                - Por medio de la tabla mencionada en el **Extracción**, y la tercera tabla 
+                comentada en **Generación de insihts**, se muestra en una serie de tiempo
+                el *risk_level* *promedio* (o máximo, como se prefiera establecer) por día.
+
+            
+            - Nube de palabras por institución
+                - Usuario selecciona insitución de interés
+                - Usaurio selecciona un rango temporal (fecha inicial y fecha final) de interés
+                - En base a los valores en el atributo, *keywords*, y ponderando por medio
+                del número total de interacciones, se realiza una nube de palabras filtrando
+                los registros también por medio del rango de tiempo establecido.

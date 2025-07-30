@@ -1,0 +1,375 @@
+keyword,general_keyword
+humedad,salud
+problemas,riesgo
+eliminación,riesgo
+clima,riesgo
+ofertas,comercial
+crimen organizado,delincuencia
+homicidio culposo,muerte
+inconstitucionalidad,legal
+vigilancia,delincuencia
+disparos,delincuencia
+infrastructure,infraestructura
+abandono,riesgo
+atención,salud
+disparo,delincuencia
+medidas de seguridad,seguridad
+fallas de seguridad,seguridad
+daño,riesgo
+mandatos judiciales,legal
+salubridad,salud
+robo,delincuencia
+cambio de nombre,riesgo
+cobro,legal
+balacera,delincuencia
+pérdidas,riesgo
+criminal,delincuencia
+multitud,protesta
+amenaza,riesgo
+duelo,muerte
+policía,delincuencia
+residuos,riesgo
+vulneración,riesgo
+gresca,delincuencia
+sismos,infraestructura
+fallecidos,muerte
+verificación,riesgo
+arresto ciudadano,delincuencia
+utilidades,comercial
+sanción,legal
+consumidor,riesgo
+descuentos,comercial
+estado de emergencia,riesgo
+huelga,laboral
+contradicción,legal
+demanda,legal
+libre empresa,comercial
+discriminación,legal
+sorpresa,riesgo
+operativos,operativos
+finanzas,comercial
+hackeo,delincuencia
+marca,comercial
+clienta,riesgo
+sobreviviente,riesgo
+ayuda,ayuda
+unidad,operativos
+explosión,accidente
+aglomeraciones,riesgo
+bengala,delincuencia
+observaciones,observaciones
+mercado,comercial
+homenaje póstumo,muerte
+intimidación,riesgo
+sismo,infraestructura
+incompetencia,riesgo
+sanitarias,salud
+incidente,riesgo
+pérdida de locatarios,riesgo
+presupuesto,finanzas
+derechos,legal
+fiscalización,riesgo
+violencia,delincuencia
+apertura,apertura
+deuda,finanzas
+infraestructura,infraestructura
+cierre,clausura
+cuestionamiento,legal
+renuncia,laboral
+productos vencidos,salud
+salud,salud
+tiroteo,delincuencia
+agresión,delincuencia
+operativo,operativo
+tercerización,laboral
+menores,riesgo
+crimen,delincuencia
+reclamos,riesgo
+auspiciador,comercial
+fatal,muerte
+animal,riesgo
+ajuste de cuentas,delincuencia
+escándalo,riesgo
+arbitraire,riesgo
+imagen,visual
+problemas económicos,finanzas
+mala administración,riesgo
+reapertura,apertura
+fisuras,infraestructura
+indemnización,legal
+filtración,riesgo
+movilización,protesta
+derechos laborales,laboral
+ataque,delincuencia
+fallecimiento,muerte
+daños,infraestructura
+fatalidad,muerte
+inseguridad,delincuencia
+fatalidades,muerte
+ley,legal
+igual,riesgo
+cambios,riesgo
+maltrato,delincuencia
+normativas,legal
+servicio,comercial
+despidos,laboral
+multa,legal
+defensa civil,operativos
+venta,comercial
+calidad,calidad
+accidente,accidente
+productos en mal estado,riesgo
+tiendas,comercial
+derecho a la huelga,laboral
+moda,comercial
+asuntos internos,administrativo
+discapacidad,riesgo
+granada,delincuencia
+diseño,comercial
+trabajo,laboral
+arbitraje,legal
+asalto,delincuencia
+drama,riesgo
+municipalidades,administrativo
+caída,riesgo
+muertos,muerte
+politicos,protesta
+precarización,riesgo
+preocupación,riesgo
+clausura,clausura
+disturbio,delincuencia
+violación,delincuencia
+opinión,opinión
+amputación,muerte
+represalias,delincuencia
+evidencia,riesgo
+arbitrariedad,riesgo
+disturbios,delincuencia
+alarma,seguridad
+estacionamiento,comercial
+operación,operación
+indignación,protesta
+investigación,legal
+calidad sanitaria,salud
+ascensor,infraestructura
+estabilidad,riesgo
+intervención,operativo
+video,visual
+prisión preventiva,legal
+vehículos,infraestructura
+retraso,riesgo
+fraude,delincuencia
+convenio,legal
+medicamentos,salud
+mafia,delincuencia
+legislación,legal
+escalera,infraestructura
+apoyo,ayuda
+delincuente,delincuencia
+incidentes,riesgo
+delincuencia,delincuencia
+decisión,riesgo
+retirada,riesgo
+homicidio,muerte
+interacción,relaciones
+subsanar,riesgo
+feria,comercial
+retención,legal
+perros,riesgo
+muertes,muerte
+destrozos,riesgo
+pista mojada,riesgo
+inclusión,social
+desaparecidos,riesgo
+desaparición,riesgo
+multas,legal
+protesta,protesta
+fuga,riesgo
+municipalidad,administrativo
+delito,delincuencia
+mortalidad,muerte
+proyecto,comercial
+zancudos,salud
+deficiencias,riesgo
+ropa,comercial
+pelea,delincuencia
+transparencia,legal
+reclamo,riesgo
+laboral,laboral
+solidaridad,ayuda
+estado crítico,riesgo
+suciedad,salud
+confianza,riesgo
+rescates,riesgo
+remuneración,laboral
+tensión,riesgo
+medicamento,salud
+irregularidad,riesgo
+alcohol,salud
+precauciones,riesgo
+engaño,delincuencia
+pesticidas,salud
+libertad,derechos
+rápida acción,operativo
+descubrimiento,riesgo
+disputa,conflicto
+mendicidad,delincuencia
+derecho a elegir,derechos
+afiliación,riesgo
+energía,energía
+niños,risk
+diálogo,diálogo
+críticas,reputación
+promoción,comercial
+inspección,riesgo
+abuso,riesgo
+tragedia,muerte
+revisión,riesgo
+protocolos,protocolo
+sobrecarga,riesgo
+afluencia,riesgo
+datos sensibles,información
+comunidad,comunidad
+reincorporación,laboral
+goteras,infraestructura
+pérdida,riesgo
+reacción adversa,riesgo
+responsabilidad,riesgo
+atentado,delincuencia
+comunicado,comercial
+privacidad,información
+donaciones,ayuda
+estafa,delincuencia
+emergencia,riesgo
+condiciones laborales,laboral
+injusticia,legal
+bomberos,accidente
+falta de información,riesgo
+siniestro,riesgo
+alerta de consumo,consumo
+cerrar,clausura
+incendio,riesgo
+inversión,finanzas
+reacción,riesgo
+daño potencial,riesgo
+alerta sanitaria,salud
+supervisión,operativos
+robos,delincuencia
+desinformación,riesgo
+sanitaria,salud
+heridos,accidente
+demolición,riesgo
+normas,legal
+explosivo,delincuencia
+clientes,riesgo
+protestas,protesta
+normas de seguridad,seguridad
+agua,salud
+riesgo,riesgo
+transformación,cambio
+mantenimiento,infraestructura
+reputación,reputación
+falta de fiscalización,riesgo
+sindicatos,laboral
+liberación,legal
+transporte,logística
+quejas,riesgo
+vacado,riesgo
+estado de ebriedad,riesgo
+justicia,legal
+obligación,legal
+armas,delincuencia
+recupero,finanzas
+negligencia,riesgo
+instalaciones,infraestructura
+lesiones,accidente
+sindicato,laboral
+detención,delincuencia
+derrumbe,infrastructure
+colapso,riesgo
+denuncia,legal
+información,información
+crítica,reputación
+seguridad,seguridad
+horario,comercial
+impunidad,delincuencia
+legitimidad,legal
+atrapados,riesgo
+lesionados,accidente
+rescatar,ayuda
+reestructuración,riesgo
+ruta,infraestructura
+falta de apoyo,ayuda
+explosivos,delincuencia
+icónicas,comercial
+explotación,riesgo
+víctimas,muerte
+recuperación,salud
+pago,legal
+condiciones insalubres,salud
+exposición al riesgo,riesgo
+prácticas laborales,laboral
+inventarios,comercial
+productos tóxicos,riesgo
+susto,riesgo
+grietas,infraestructura
+rescate,ayuda
+empleos,laboral
+delincuentes,delincuencia
+atropello,accidente
+orden público,protesta
+despido,laboral
+extorsión,delincuencia
+garantías,comercial
+datos,información
+lluvias,clima
+claustura,clausura
+fallas,riesgo
+rescata,ayuda
+asesinato,muerte
+sustancias prohibidas,riesgo
+empleado sospechoso,riesgo
+secuestro,delincuencia
+muerte,muerte
+hurto,delincuencia
+homenaje,muerte
+prevención,riesgo
+corrupción,corrupción
+riesgos,riesgo
+comunicación,comunicacion
+trabajadores,laboral
+cesación,legal
+caos,riesgo
+cerrado,clausura
+deterioro,riesgo
+despedida,riesgo
+denuncias,riesgo
+atraco,delincuencia
+detonación,delincuencia
+menores de edad,riesgo
+negligencia médica,riesgo
+requisitoria,legal
+peligro,riesgo
+infracción,legal
+crecimiento,crecimiento
+contrato,legal
+coimas,delincuencia
+cambio,riesgo
+lluvia,clima
+hurtos,delincuencia
+corrosión,infraestructura
+locales,infraestructura
+delivery,comercial
+corte circuito,riesgo
+alteración,riesgo
+sanciones,legal
+vandalismo,delincuencia
+acoso,delincuencia
+temporal,temporal
+crisis,crisis
+adquisición,comercial
+inundación,riesgo
+pánico,riesgo
+abusos,riesgo
+estructura,infraestructura
+sicariato,delincuencia
