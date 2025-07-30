@@ -1,1 +1,1204 @@
-2025/07/30 10:39:51 AM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:55:06 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:55:06 PM - src.logger - INFO - Index: 0. Output: institution='real plaza' keywords=['accidente'] main_keyword='accidente'
+2025/07/30 12:55:07 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:55:07 PM - src.logger - INFO - Index: 1. Output: institution='mall aventura' keywords=['infraestructura'] main_keyword='infraestructura'
+2025/07/30 12:55:08 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:55:08 PM - src.logger - INFO - Index: 2. Output: institution='mall plaza' keywords=['cierre', 'libre empresa', 'arbitrariedad'] main_keyword='cierre'
+2025/07/30 12:55:10 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:55:10 PM - src.logger - INFO - Index: 3. Output: institution='mega plaza' keywords=['asalto', 'delincuencia'] main_keyword='asalto'
+2025/07/30 12:55:11 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:55:11 PM - src.logger - INFO - Index: 4. Output: institution='real plaza' keywords=['demanda', 'cierre', 'arbitraje'] main_keyword='demanda'
+2025/07/30 12:55:11 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:55:11 PM - src.logger - INFO - Index: 5. Output: institution='real plaza' keywords=['reapertura'] main_keyword='reapertura'
+2025/07/30 12:55:12 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:55:12 PM - src.logger - INFO - Index: 6. Output: institution='plaza vea' keywords=['hurto'] main_keyword='hurto'
+2025/07/30 12:55:13 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:55:14 PM - src.logger - INFO - Index: 7. Output: institution='indecopi' keywords=['corrupción'] main_keyword='corrupción'
+2025/07/30 12:55:14 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:55:14 PM - src.logger - INFO - Index: 8. Output: institution='mall plaza' keywords=['apertura', 'observaciones'] main_keyword='apertura'
+2025/07/30 12:55:15 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:55:15 PM - src.logger - INFO - Index: 9. Output: institution='plaza vea' keywords=['hurto'] main_keyword='hurto'
+2025/07/30 12:55:16 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:55:16 PM - src.logger - INFO - Index: 10. Output: institution='real plaza' keywords=['robo', 'denuncia', 'responsabilidad'] main_keyword='robo'
+2025/07/30 12:55:17 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:55:17 PM - src.logger - INFO - Index: 11. Output: institution='indecopi' keywords=['multas', 'escándalo'] main_keyword='escándalo'
+2025/07/30 12:55:18 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:55:18 PM - src.logger - INFO - Index: 12. Output: institution='mall plaza' keywords=['asalto', 'seguridad'] main_keyword='asalto'
+2025/07/30 12:55:19 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:55:19 PM - src.logger - INFO - Index: 13. Output: institution='inkafarma' keywords=['asalto'] main_keyword='asalto'
+2025/07/30 12:55:21 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:55:21 PM - src.logger - INFO - Index: 14. Output: institution='plaza del sol' keywords=['asalto', 'robo', 'prisión preventiva'] main_keyword='asalto'
+2025/07/30 12:55:22 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:55:22 PM - src.logger - INFO - Index: 15. Output: institution='megaplaza' keywords=['incendio'] main_keyword='incendio'
+2025/07/30 12:55:23 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:55:23 PM - src.logger - INFO - Index: 16. Output: institution='saga falabella' keywords=['fraude', 'libertad', 'requisitoria'] main_keyword='fraude'
+2025/07/30 12:55:25 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:55:25 PM - src.logger - INFO - Index: 17. Output: institution='sagafalabella' keywords=['robo', 'delito'] main_keyword='robo'
+2025/07/30 12:55:26 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:55:26 PM - src.logger - INFO - Index: 18. Output: institution='mall plaza' keywords=['robo', 'seguridad'] main_keyword='robo'
+2025/07/30 12:55:26 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:55:26 PM - src.logger - INFO - Index: 19. Output: institution='minka' keywords=['cerrar', 'clientes', 'emergencia'] main_keyword='cerrar'
+2025/07/30 12:55:27 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:55:27 PM - src.logger - INFO - Index: 20. Output: institution='mall aventura' keywords=['cobro', 'estacionamiento', 'injusticia'] main_keyword='cobro'
+2025/07/30 12:55:28 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:55:28 PM - src.logger - INFO - Index: 21. Output: institution='mall aventura' keywords=['agresión', 'violencia'] main_keyword='agresión'
+2025/07/30 12:55:29 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:55:29 PM - src.logger - INFO - Index: 22. Output: institution='mall aventura' keywords=['clausura', 'fiscalización'] main_keyword='clausura'
+2025/07/30 12:55:30 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:55:30 PM - src.logger - INFO - Index: 23. Output: institution='mall aventura' keywords=['robo'] main_keyword='robo'
+2025/07/30 12:55:31 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:55:31 PM - src.logger - INFO - Index: 24. Output: institution='mall aventura' keywords=['hurtos', 'delincuencia'] main_keyword='delincuencia'
+2025/07/30 12:55:32 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:55:32 PM - src.logger - INFO - Index: 25. Output: institution='mall aventura' keywords=['robo', 'seguridad'] main_keyword='robo'
+2025/07/30 12:55:33 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:55:33 PM - src.logger - INFO - Index: 26. Output: institution='mall aventura plaza' keywords=['robo', 'delincuente'] main_keyword='robo'
+2025/07/30 12:55:34 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:55:34 PM - src.logger - INFO - Index: 27. Output: institution='mall aventura' keywords=['robo', 'delito', 'seguridad'] main_keyword='robo'
+2025/07/30 12:55:35 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:55:35 PM - src.logger - INFO - Index: 28. Output: institution='mall plaza' keywords=['fuga', 'seguridad'] main_keyword='fuga'
+2025/07/30 12:55:36 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:55:36 PM - src.logger - INFO - Index: 29. Output: institution='mega plaza ica' keywords=['incendio', 'corte circuito'] main_keyword='incendio'
+2025/07/30 12:55:37 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:55:37 PM - src.logger - INFO - Index: 30. Output: institution='mega plaza' keywords=['incendio'] main_keyword='incendio'
+2025/07/30 12:55:38 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:55:38 PM - src.logger - INFO - Index: 31. Output: institution='real plaza' keywords=['hurto'] main_keyword='hurto'
+2025/07/30 12:55:39 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:55:39 PM - src.logger - INFO - Index: 32. Output: institution='real plaza' keywords=['asalto', 'delincuencia'] main_keyword='asalto'
+2025/07/30 12:55:40 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:55:40 PM - src.logger - INFO - Index: 33. Output: institution='megaplaza' keywords=['asalto', 'robo'] main_keyword='asalto'
+2025/07/30 12:55:41 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:55:41 PM - src.logger - INFO - Index: 34. Output: institution='plaza vea' keywords=['accidente', 'heridos'] main_keyword='accidente'
+2025/07/30 12:55:42 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:55:42 PM - src.logger - INFO - Index: 35. Output: institution='mall del sur' keywords=['bengala'] main_keyword='bengala'
+2025/07/30 12:55:43 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:55:43 PM - src.logger - INFO - Index: 36. Output: institution='mall del sur' keywords=['seguridad', 'incidentes'] main_keyword='incidentes'
+2025/07/30 12:55:44 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:55:44 PM - src.logger - INFO - Index: 37. Output: institution='none' keywords=['incendio', 'emergencia'] main_keyword='incendio'
+2025/07/30 12:55:45 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:55:45 PM - src.logger - INFO - Index: 38. Output: institution='mall aventura santa anita' keywords=['fiscalización', 'defensa civil', 'operativo'] main_keyword='fiscalización'
+2025/07/30 12:55:45 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:55:45 PM - src.logger - INFO - Index: 39. Output: institution='real plaza' keywords=['inseguridad', 'asalto'] main_keyword='inseguridad'
+2025/07/30 12:55:47 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:55:47 PM - src.logger - INFO - Index: 40. Output: institution='plaza del sol' keywords=['multas', 'mantenimiento', 'accidente'] main_keyword='multas'
+2025/07/30 12:55:48 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:55:48 PM - src.logger - INFO - Index: 41. Output: institution='real plaza' keywords=['robo'] main_keyword='robo'
+2025/07/30 12:55:49 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:55:49 PM - src.logger - INFO - Index: 42. Output: institution='mall aventura plaza' keywords=['extorsión', 'delito', 'crimen'] main_keyword='extorsión'
+2025/07/30 12:55:51 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:55:51 PM - src.logger - INFO - Index: 43. Output: institution='mall plaza' keywords=['robo', 'delincuencia'] main_keyword='robo'
+2025/07/30 12:55:52 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:55:52 PM - src.logger - INFO - Index: 44. Output: institution='none' keywords=['obligación', 'inventarios', 'medicamentos'] main_keyword='obligación'
+2025/07/30 12:55:53 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:55:53 PM - src.logger - INFO - Index: 45. Output: institution='mall open plaza' keywords=['robo', 'seguridad'] main_keyword='robo'
+2025/07/30 12:55:54 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:55:54 PM - src.logger - INFO - Index: 46. Output: institution='None' keywords=['robo', 'asalto'] main_keyword='delincuencia'
+2025/07/30 12:55:55 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:55:55 PM - src.logger - INFO - Index: 47. Output: institution='promart' keywords=['incendio', 'siniestro'] main_keyword='incendio'
+2025/07/30 12:55:56 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:55:56 PM - src.logger - INFO - Index: 48. Output: institution='plaza norte' keywords=['ataque'] main_keyword='ataque'
+2025/07/30 12:55:57 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:55:57 PM - src.logger - INFO - Index: 49. Output: institution='promart' keywords=['asalto', 'delincuencia'] main_keyword='asalto'
+2025/07/30 12:55:58 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:55:58 PM - src.logger - INFO - Index: 50. Output: institution='plaza norte' keywords=['atentado', 'tiroteo'] main_keyword='atentado'
+2025/07/30 12:55:59 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:55:59 PM - src.logger - INFO - Index: 51. Output: institution='mall aventura' keywords=['clausura'] main_keyword='clausura'
+2025/07/30 12:56:00 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:56:00 PM - src.logger - INFO - Index: 52. Output: institution='mall aventura sjl' keywords=['clausura'] main_keyword='clausura'
+2025/07/30 12:56:01 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:56:01 PM - src.logger - INFO - Index: 53. Output: institution='mall aventura' keywords=['clausura'] main_keyword='clausura'
+2025/07/30 12:56:02 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:56:02 PM - src.logger - INFO - Index: 54. Output: institution='promart' keywords=['robo', 'delincuentes', 'violencia'] main_keyword='robo'
+2025/07/30 12:56:03 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:56:03 PM - src.logger - INFO - Index: 55. Output: institution='plaza del sol' keywords=['zancudos'] main_keyword='zancudos'
+2025/07/30 12:56:04 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:56:04 PM - src.logger - INFO - Index: 56. Output: institution='plaza norte' keywords=['emergencia', 'incendio'] main_keyword='incendio'
+2025/07/30 12:56:05 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:56:05 PM - src.logger - INFO - Index: 57. Output: institution=' municipio provincial de pisco' keywords=['ataque', 'perros', 'denuncia'] main_keyword='ataque'
+2025/07/30 12:56:06 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:56:06 PM - src.logger - INFO - Index: 58. Output: institution='larcomar' keywords=['incendio'] main_keyword='incendio'
+2025/07/30 12:56:07 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:56:07 PM - src.logger - INFO - Index: 59. Output: institution='megaplaza' keywords=['accidente'] main_keyword='accidente'
+2025/07/30 12:56:08 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:56:08 PM - src.logger - INFO - Index: 60. Output: institution='mall plaza' keywords=['disparos', 'violencia'] main_keyword='violencia'
+2025/07/30 12:56:09 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:56:09 PM - src.logger - INFO - Index: 61. Output: institution='cencosud' keywords=['robo', 'hurto', 'delito'] main_keyword='robo'
+2025/07/30 12:56:10 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:56:10 PM - src.logger - INFO - Index: 62. Output: institution='plaza vea chacarero' keywords=['robo', 'responsabilidad'] main_keyword='robo'
+2025/07/30 12:56:10 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:56:10 PM - src.logger - INFO - Index: 63. Output: institution='mifarma' keywords=['asalto', 'delincuencia'] main_keyword='asalto'
+2025/07/30 12:56:11 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:56:11 PM - src.logger - INFO - Index: 64. Output: institution='promart s.a.c' keywords=['robo', 'delincuencia', 'extorsión'] main_keyword='robo'
+2025/07/30 12:56:12 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:56:12 PM - src.logger - INFO - Index: 65. Output: institution='real plaza' keywords=['destrozos', 'estado de ebriedad'] main_keyword='destrozos'
+2025/07/30 12:56:13 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:56:13 PM - src.logger - INFO - Index: 66. Output: institution='open plaza' keywords=['disparos'] main_keyword='disparos'
+2025/07/30 12:56:14 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:56:14 PM - src.logger - INFO - Index: 67. Output: institution='open plaza' keywords=['delincuencia', 'balacera'] main_keyword='delincuencia'
+2025/07/30 12:56:15 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:56:15 PM - src.logger - INFO - Index: 68. Output: institution='mega plaza' keywords=['delito', 'seguridad'] main_keyword='delito'
+2025/07/30 12:56:16 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:56:16 PM - src.logger - INFO - Index: 69. Output: institution='tambo' keywords=['robo'] main_keyword='robo'
+2025/07/30 12:56:17 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:56:17 PM - src.logger - INFO - Index: 70. Output: institution='plaza san miguel' keywords=['investigación', 'accidente', 'fallecimiento'] main_keyword='accidente'
+2025/07/30 12:56:18 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:56:18 PM - src.logger - INFO - Index: 71. Output: institution='rpp' keywords=['robo', 'falta de apoyo'] main_keyword='robo'
+2025/07/30 12:56:19 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:56:19 PM - src.logger - INFO - Index: 72. Output: institution='mall aventura' keywords=['explotación', 'mendicidad', 'menores de edad'] main_keyword='explotación'
+2025/07/30 12:56:20 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:56:20 PM - src.logger - INFO - Index: 73. Output: institution='open plaza' keywords=['muerte', 'emergencia'] main_keyword='muerte'
+2025/07/30 12:56:21 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:56:21 PM - src.logger - INFO - Index: 74. Output: institution='falabella' keywords=['derechos laborales', 'abuso', 'mandatos judiciales'] main_keyword='abuso'
+2025/07/30 12:56:22 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:56:22 PM - src.logger - INFO - Index: 75. Output: institution='plaza vea' keywords=['hurto', 'delincuencia'] main_keyword='hurto'
+2025/07/30 12:56:23 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:56:23 PM - src.logger - INFO - Index: 76. Output: institution='plaza vea' keywords=['robo', 'delito'] main_keyword='robo'
+2025/07/30 12:56:23 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:56:23 PM - src.logger - INFO - Index: 77. Output: institution='totus' keywords=['fraude', 'robo'] main_keyword='fraude'
+2025/07/30 12:56:24 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:56:24 PM - src.logger - INFO - Index: 78. Output: institution='real plaza' keywords=['accidente'] main_keyword='accidente'
+2025/07/30 12:56:25 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:56:25 PM - src.logger - INFO - Index: 79. Output: institution='mall aventura' keywords=['despido', 'reclamo', 'pago'] main_keyword='despido'
+2025/07/30 12:56:27 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:56:27 PM - src.logger - INFO - Index: 80. Output: institution='plaza vea' keywords=['incidente', 'infraestructura', 'atrapados'] main_keyword='incidente'
+2025/07/30 12:56:28 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:56:28 PM - src.logger - INFO - Index: 81. Output: institution='mall aventura' keywords=['estafa', 'engaño'] main_keyword='estafa'
+2025/07/30 12:56:29 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:56:29 PM - src.logger - INFO - Index: 82. Output: institution='none' keywords=['multitud', 'interacción'] main_keyword='multitud'
+2025/07/30 12:56:30 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:56:30 PM - src.logger - INFO - Index: 83. Output: institution='promart' keywords=['sindicato', 'afiliación'] main_keyword='sindicato'
+2025/07/30 12:56:31 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:56:31 PM - src.logger - INFO - Index: 84. Output: institution='inkafarma' keywords=['protesta'] main_keyword='protesta'
+2025/07/30 12:56:32 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:56:32 PM - src.logger - INFO - Index: 85. Output: institution='real plaza' keywords=['delincuencia', 'violencia'] main_keyword='delincuencia'
+2025/07/30 12:56:33 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:56:33 PM - src.logger - INFO - Index: 86. Output: institution='real plaza' keywords=['delincuencia', 'liberación', 'prisión preventiva'] main_keyword='delincuencia'
+2025/07/30 12:56:34 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:56:34 PM - src.logger - INFO - Index: 87. Output: institution='ripley' keywords=['despido', 'atención', 'laboral', 'crecimiento'] main_keyword='despido'
+2025/07/30 12:56:35 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:56:35 PM - src.logger - INFO - Index: 88. Output: institution='la molina' keywords=['opinión'] main_keyword='opinión'
+2025/07/30 12:56:36 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:56:36 PM - src.logger - INFO - Index: 89. Output: institution='open plaza' keywords=['robo', 'delincuencia'] main_keyword='robo'
+2025/07/30 12:56:37 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:56:37 PM - src.logger - INFO - Index: 90. Output: institution='plaza norte' keywords=['accidente'] main_keyword='accidente'
+2025/07/30 12:56:37 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:56:37 PM - src.logger - INFO - Index: 91. Output: institution='plaza norte' keywords=['accidente'] main_keyword='accidente'
+2025/07/30 12:56:38 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:56:38 PM - src.logger - INFO - Index: 92. Output: institution='mall aventura' keywords=['estafa', 'reclamos'] main_keyword='estafa'
+2025/07/30 12:56:39 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:56:39 PM - src.logger - INFO - Index: 93. Output: institution='inkafarma' keywords=['huelga', 'derechos laborales', 'sindicatos', 'protestas'] main_keyword='huelga'
+2025/07/30 12:56:41 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:56:41 PM - src.logger - INFO - Index: 94. Output: institution='ripley' keywords=['despido', 'arbitraire'] main_keyword='despido'
+2025/07/30 12:56:42 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:56:42 PM - src.logger - INFO - Index: 95. Output: institution='plaza vea' keywords=['incendio', 'siniestro'] main_keyword='incendio'
+2025/07/30 12:56:43 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:56:43 PM - src.logger - INFO - Index: 96. Output: institution='plaza del sol' keywords=['delito', 'homicidio', 'detención'] main_keyword='delito'
+2025/07/30 12:56:44 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:56:44 PM - src.logger - INFO - Index: 97. Output: institution='makro' keywords=['accidente'] main_keyword='accidente'
+2025/07/30 12:56:45 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:56:45 PM - src.logger - INFO - Index: 98. Output: institution='plaza norte' keywords=['delito', 'robo', 'agresión'] main_keyword='delito'
+2025/07/30 12:56:46 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:56:46 PM - src.logger - INFO - Index: 99. Output: institution='plaza vea' keywords=['delito', 'robo'] main_keyword='robo'
+2025/07/30 12:56:47 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:56:47 PM - src.logger - INFO - Index: 100. Output: institution='mega plaza' keywords=['hurto', 'delito'] main_keyword='hurto'
+2025/07/30 12:56:48 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:56:48 PM - src.logger - INFO - Index: 101. Output: institution='plaza norte' keywords=['violación', 'delito', 'seguridad'] main_keyword='violación'
+2025/07/30 12:56:48 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:56:48 PM - src.logger - INFO - Index: 102. Output: institution='plaza norte' keywords=['accidente'] main_keyword='accidente'
+2025/07/30 12:56:49 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:56:49 PM - src.logger - INFO - Index: 103. Output: institution='real plaza' keywords=['atraco'] main_keyword='atraco'
+2025/07/30 12:56:50 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:56:50 PM - src.logger - INFO - Index: 104. Output: institution='real plaza' keywords=['extorsión'] main_keyword='extorsión'
+2025/07/30 12:56:51 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:56:51 PM - src.logger - INFO - Index: 105. Output: institution='plaza vea' keywords=['incendio', 'susto'] main_keyword='incendio'
+2025/07/30 12:56:52 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:56:52 PM - src.logger - INFO - Index: 106. Output: institution='mall aventura' keywords=['robo', 'hurto'] main_keyword='robo'
+2025/07/30 12:56:52 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:56:52 PM - src.logger - INFO - Index: 107. Output: institution='real plaza' keywords=['robo'] main_keyword='robo'
+2025/07/30 12:56:53 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:56:53 PM - src.logger - INFO - Index: 108. Output: institution='none' keywords=['accidente', 'pista mojada', 'lluvia'] main_keyword='accidente'
+2025/07/30 12:56:54 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:56:54 PM - src.logger - INFO - Index: 109. Output: institution='mall aventura' keywords=['hurto', 'seguridad'] main_keyword='hurto'
+2025/07/30 12:56:55 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:56:55 PM - src.logger - INFO - Index: 110. Output: institution='makro' keywords=['accidente'] main_keyword='accidente'
+2025/07/30 12:56:56 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:56:56 PM - src.logger - INFO - Index: 111. Output: institution='real plaza' keywords=['venta', 'ofertas'] main_keyword='ofertas'
+2025/07/30 12:56:56 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:56:56 PM - src.logger - INFO - Index: 112. Output: institution='metro' keywords=['cierre', 'operación'] main_keyword='cierre'
+2025/07/30 12:56:57 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:56:57 PM - src.logger - INFO - Index: 113. Output: institution='none' keywords=['movilización', 'renuncia', 'derecho a la huelga'] main_keyword='movilización'
+2025/07/30 12:56:58 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:56:58 PM - src.logger - INFO - Index: 114. Output: institution='plaza vea' keywords=['cierre'] main_keyword='cierre'
+2025/07/30 12:56:59 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:56:59 PM - src.logger - INFO - Index: 115. Output: institution='plaza vea' keywords=['cierre', 'asuntos internos'] main_keyword='cierre'
+2025/07/30 12:57:00 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:57:00 PM - src.logger - INFO - Index: 116. Output: institution='plaza vea' keywords=['cierre', 'tiendas'] main_keyword='cierre'
+2025/07/30 12:57:01 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:57:01 PM - src.logger - INFO - Index: 117. Output: institution='plaza vea' keywords=['cierre'] main_keyword='cierre'
+2025/07/30 12:57:01 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:57:01 PM - src.logger - INFO - Index: 118. Output: institution='falabella' keywords=['diálogo', 'sindicatos'] main_keyword='sindicatos'
+2025/07/30 12:57:02 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:57:02 PM - src.logger - INFO - Index: 119. Output: institution='plaza vea' keywords=['cierre'] main_keyword='cierre'
+2025/07/30 12:57:03 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:57:03 PM - src.logger - INFO - Index: 120. Output: institution='plaza vea' keywords=['cierre', 'horario'] main_keyword='cierre'
+2025/07/30 12:57:04 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:57:04 PM - src.logger - INFO - Index: 121. Output: institution='supermercado metro uni' keywords=['cierre', 'descuentos'] main_keyword='cierre'
+2025/07/30 12:57:05 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:57:05 PM - src.logger - INFO - Index: 122. Output: institution='metro uni' keywords=['cierre', 'comunidad', 'despedida'] main_keyword='cierre'
+2025/07/30 12:57:06 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:57:06 PM - src.logger - INFO - Index: 123. Output: institution='ripley' keywords=['cierre'] main_keyword='cierre'
+2025/07/30 12:57:07 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:57:07 PM - src.logger - INFO - Index: 124. Output: institution='sodimac' keywords=['robo', 'seguridad'] main_keyword='robo'
+2025/07/30 12:57:07 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:57:07 PM - src.logger - INFO - Index: 125. Output: institution='ripley' keywords=['cierre'] main_keyword='cierre'
+2025/07/30 12:57:08 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:57:08 PM - src.logger - INFO - Index: 126. Output: institution='None' keywords=['cierre', 'locales'] main_keyword='cierre'
+2025/07/30 12:57:09 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:57:09 PM - src.logger - INFO - Index: 127. Output: institution='ripley' keywords=['reestructuración', 'cierre'] main_keyword='cierre'
+2025/07/30 12:57:10 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:57:10 PM - src.logger - INFO - Index: 128. Output: institution='ripley' keywords=['cierre', 'tiendas', 'icónicas'] main_keyword='cierre'
+2025/07/30 12:57:11 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:57:11 PM - src.logger - INFO - Index: 129. Output: institution='real plaza' keywords=['acoso', 'denuncia'] main_keyword='acoso'
+2025/07/30 12:57:12 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:57:12 PM - src.logger - INFO - Index: 130. Output: institution='plaza del sol' keywords=['cierre', 'reestructuración'] main_keyword='cierre'
+2025/07/30 12:57:12 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:57:12 PM - src.logger - INFO - Index: 131. Output: institution='real plaza' keywords=['delincuencia', 'robo', 'detención'] main_keyword='delincuencia'
+2025/07/30 12:57:13 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:57:13 PM - src.logger - INFO - Index: 132. Output: institution='promart' keywords=['accidente', 'fatal'] main_keyword='accidente'
+2025/07/30 12:57:14 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:57:14 PM - src.logger - INFO - Index: 133. Output: institution='promart' keywords=['accidente'] main_keyword='accidente'
+2025/07/30 12:57:15 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:57:15 PM - src.logger - INFO - Index: 134. Output: institution='universidad nacional de ingeniería' keywords=['cierre', 'proyecto', 'transformación'] main_keyword='cierre'
+2025/07/30 12:57:16 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:57:16 PM - src.logger - INFO - Index: 135. Output: institution='mall plaza' keywords=['asalto', 'robo'] main_keyword='asalto'
+2025/07/30 12:57:18 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:57:18 PM - src.logger - INFO - Index: 136. Output: institution='mall plaza' keywords=['demanda', 'clausura'] main_keyword='demanda'
+2025/07/30 12:57:19 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:57:19 PM - src.logger - INFO - Index: 137. Output: institution='plaza vea' keywords=['accidente'] main_keyword='accidente'
+2025/07/30 12:57:20 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:57:20 PM - src.logger - INFO - Index: 138. Output: institution='ripley' keywords=['cierre', 'tiendas'] main_keyword='cierre'
+2025/07/30 12:57:21 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:57:21 PM - src.logger - INFO - Index: 139. Output: institution='mall plaza trujillo' keywords=['robo', 'delincuencia', 'violencia'] main_keyword='robo'
+2025/07/30 12:57:22 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:57:22 PM - src.logger - INFO - Index: 140. Output: institution='química suiza' keywords=['tercerización', 'vulneración', 'precarización'] main_keyword='tercerización'
+2025/07/30 12:57:23 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:57:23 PM - src.logger - INFO - Index: 141. Output: institution='plaza vea' keywords=['daños', 'incidentes'] main_keyword='incidentes'
+2025/07/30 12:57:24 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:57:24 PM - src.logger - INFO - Index: 142. Output: institution='plaza vea' keywords=['accidente', 'rescate'] main_keyword='accidente'
+2025/07/30 12:57:25 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:57:25 PM - src.logger - INFO - Index: 143. Output: institution='plaza norte' keywords=['delincuencia', 'asalto'] main_keyword='delincuencia'
+2025/07/30 12:57:26 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:57:26 PM - src.logger - INFO - Index: 144. Output: institution='metro' keywords=['accidente', 'violencia'] main_keyword='accidente'
+2025/07/30 12:57:27 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:57:27 PM - src.logger - INFO - Index: 145. Output: institution='ripley huancayo' keywords=['protesta', 'abusos'] main_keyword='protesta'
+2025/07/30 12:57:28 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:57:28 PM - src.logger - INFO - Index: 146. Output: institution='real plaza' keywords=['prácticas laborales', 'maltrato', 'sindicato'] main_keyword='prácticas laborales'
+2025/07/30 12:57:29 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:57:29 PM - src.logger - INFO - Index: 147. Output: institution='promart' keywords=['infraestructura'] main_keyword='infraestructura'
+2025/07/30 12:57:30 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:57:30 PM - src.logger - INFO - Index: 148. Output: institution='open plaza' keywords=['extorsión'] main_keyword='extorsión'
+2025/07/30 12:57:31 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:57:31 PM - src.logger - INFO - Index: 149. Output: institution='mall plaza' keywords=['cierre', 'problemas económicos'] main_keyword='cierre'
+2025/07/30 12:57:32 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:57:32 PM - src.logger - INFO - Index: 150. Output: institution='real plaza' keywords=['accidente', 'ascensor', 'atrapados'] main_keyword='accidente'
+2025/07/30 12:57:33 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:57:33 PM - src.logger - INFO - Index: 151. Output: institution='inkafarma' keywords=['robo'] main_keyword='robo'
+2025/07/30 12:57:34 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:57:34 PM - src.logger - INFO - Index: 152. Output: institution='quimica suiza' keywords=['reincorporación', 'derechos laborales', 'sanciones'] main_keyword='reincorporación'
+2025/07/30 12:57:35 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:57:35 PM - src.logger - INFO - Index: 153. Output: institution='metro, megaplaza' keywords=['inconstitucionalidad', 'ley', 'derechos', 'trabajo'] main_keyword='inconstitucionalidad'
+2025/07/30 12:57:36 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:57:36 PM - src.logger - INFO - Index: 154. Output: institution='inkafarma' keywords=['robo', 'delito', 'investigación'] main_keyword='robo'
+2025/07/30 12:57:36 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:57:36 PM - src.logger - INFO - Index: 155. Output: institution='plaza vea' keywords=['accidente'] main_keyword='accidente'
+2025/07/30 12:57:37 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:57:37 PM - src.logger - INFO - Index: 156. Output: institution='falabella' keywords=['retirada', 'daño', 'salud'] main_keyword='retirada'
+2025/07/30 12:57:38 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:57:38 PM - src.logger - INFO - Index: 157. Output: institution='ripley' keywords=['cierre'] main_keyword='cierre'
+2025/07/30 12:57:39 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:57:39 PM - src.logger - INFO - Index: 158. Output: institution='plaza vea' keywords=['accidente'] main_keyword='accidente'
+2025/07/30 12:57:39 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:57:39 PM - src.logger - INFO - Index: 159. Output: institution='plaza norte' keywords=['asesinato', 'delincuencia'] main_keyword='asesinato'
+2025/07/30 12:57:40 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:57:40 PM - src.logger - INFO - Index: 160. Output: institution='plaza vea' keywords=['inundación', 'caos'] main_keyword='inundación'
+2025/07/30 12:57:41 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:57:41 PM - src.logger - INFO - Index: 161. Output: institution='mifarma' keywords=['asalto'] main_keyword='asalto'
+2025/07/30 12:57:42 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:57:42 PM - src.logger - INFO - Index: 162. Output: institution='plaza norte' keywords=['explosivo', 'atentado', 'heridos'] main_keyword='atentado'
+2025/07/30 12:57:43 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:57:43 PM - src.logger - INFO - Index: 163. Output: institution='plaza norte' keywords=['detonación', 'explosivo', 'heridos'] main_keyword='detonación'
+2025/07/30 12:57:44 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:57:44 PM - src.logger - INFO - Index: 164. Output: institution='mall aventura' keywords=['cierre', 'contrato'] main_keyword='cierre'
+2025/07/30 12:57:45 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:57:45 PM - src.logger - INFO - Index: 165. Output: institution='real plaza' keywords=['asalto', 'robo'] main_keyword='asalto'
+2025/07/30 12:57:46 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:57:46 PM - src.logger - INFO - Index: 166. Output: institution='ripley' keywords=['huelga', 'condiciones laborales', 'derechos laborales'] main_keyword='huelga'
+2025/07/30 12:57:46 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:57:46 PM - src.logger - INFO - Index: 167. Output: institution='real plaza' keywords=['infraestructura', 'goteras'] main_keyword='infraestructura'
+2025/07/30 12:57:47 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:57:47 PM - src.logger - INFO - Index: 168. Output: institution='mall aventura' keywords=['disturbios', 'violencia'] main_keyword='disturbios'
+2025/07/30 12:57:48 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:57:48 PM - src.logger - INFO - Index: 169. Output: institution='mall aventura' keywords=['hurto', 'delito', 'robos'] main_keyword='hurto'
+2025/07/30 12:57:49 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:57:49 PM - src.logger - INFO - Index: 170. Output: institution='sodimac' keywords=['violencia', 'robo'] main_keyword='violencia'
+2025/07/30 12:57:50 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:57:50 PM - src.logger - INFO - Index: 171. Output: institution='minka, lobatón, mayorista de frutas, mercado magdalena, san josé' keywords=['pesticidas', 'salud', 'consumidor'] main_keyword='pesticidas'
+2025/07/30 12:57:51 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:57:51 PM - src.logger - INFO - Index: 172. Output: institution='mall del sur' keywords=['granada', 'amenaza'] main_keyword='amenaza'
+2025/07/30 12:57:52 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:57:52 PM - src.logger - INFO - Index: 173. Output: institution='plaza vea' keywords=['accidente'] main_keyword='accidente'
+2025/07/30 12:57:52 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:57:52 PM - src.logger - INFO - Index: 174. Output: institution='aventura plaza' keywords=['robo'] main_keyword='robo'
+2025/07/30 12:57:53 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:57:53 PM - src.logger - INFO - Index: 175. Output: institution='plaza norte' keywords=['delincuencia', 'inseguridad', 'homicidio'] main_keyword='delincuencia'
+2025/07/30 12:57:54 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:57:54 PM - src.logger - INFO - Index: 176. Output: institution='mall plaza' keywords=['delincuencia', 'robo'] main_keyword='delincuencia'
+2025/07/30 12:57:55 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:57:55 PM - src.logger - INFO - Index: 177. Output: institution='mall plaza' keywords=['cierre', 'precauciones'] main_keyword='cierre'
+2025/07/30 12:57:56 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:57:56 PM - src.logger - INFO - Index: 178. Output: institution='mall plaza' keywords=['salud', 'productos tóxicos', 'alerta de consumo'] main_keyword='salud'
+2025/07/30 12:57:57 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:57:57 PM - src.logger - INFO - Index: 179. Output: institution='plaza vea' keywords=['incendio'] main_keyword='incendio'
+2025/07/30 12:57:58 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:57:58 PM - src.logger - INFO - Index: 180. Output: institution='plaza vea' keywords=['robo', 'justicia', 'confianza'] main_keyword='robo'
+2025/07/30 12:58:00 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:58:00 PM - src.logger - INFO - Index: 181. Output: institution='plaza vea' keywords=['robo', 'delincuencia'] main_keyword='robo'
+2025/07/30 12:58:01 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:58:01 PM - src.logger - INFO - Index: 182. Output: institution='jockey plaza' keywords=['accidente', 'escalera', 'seguridad'] main_keyword='accidente'
+2025/07/30 12:58:02 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:58:02 PM - src.logger - INFO - Index: 183. Output: institution='ripley' keywords=['alteración', 'orden público'] main_keyword='alteración'
+2025/07/30 12:58:03 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:58:03 PM - src.logger - INFO - Index: 184. Output: institution='mall aventura' keywords=['agresión', 'violencia'] main_keyword='agresión'
+2025/07/30 12:58:04 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:58:04 PM - src.logger - INFO - Index: 185. Output: institution='centro comercial' keywords=['riesgo', 'sismos'] main_keyword='riesgo'
+2025/07/30 12:58:04 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:58:04 PM - src.logger - INFO - Index: 186. Output: institution='larcomar' keywords=['riesgo', 'infraestructura', 'sismo'] main_keyword='riesgo'
+2025/07/30 12:58:05 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:58:05 PM - src.logger - INFO - Index: 187. Output: institution='real plaza' keywords=['robo'] main_keyword='robo'
+2025/07/30 12:58:06 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:58:06 PM - src.logger - INFO - Index: 188. Output: institution='larcomar' keywords=['riesgo', 'estabilidad'] main_keyword='riesgo'
+2025/07/30 12:58:07 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:58:07 PM - src.logger - INFO - Index: 189. Output: institution='mall plaza' keywords=['disturbio', 'sustancias prohibidas'] main_keyword='disturbio'
+2025/07/30 12:58:08 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:58:08 PM - src.logger - INFO - Index: 190. Output: institution='mall aventura' keywords=['tiroteo', 'desinformación'] main_keyword='tiroteo'
+2025/07/30 12:58:09 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:58:09 PM - src.logger - INFO - Index: 191. Output: institution='plaza vea' keywords=['productos vencidos', 'calidad sanitaria'] main_keyword='productos vencidos'
+2025/07/30 12:58:10 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:58:10 PM - src.logger - INFO - Index: 192. Output: institution='mallplaza' keywords=['cierre', 'adquisición', 'cambios'] main_keyword='cierre'
+2025/07/30 12:58:10 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:58:10 PM - src.logger - INFO - Index: 193. Output: institution='grifo mega' keywords=['transporte', 'ruta'] main_keyword='transporte'
+2025/07/30 12:58:11 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:58:11 PM - src.logger - INFO - Index: 194. Output: institution='real plaza' keywords=['incendio'] main_keyword='incendio'
+2025/07/30 12:58:12 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:58:12 PM - src.logger - INFO - Index: 195. Output: institution='mall aventura' keywords=['robo', 'denuncia'] main_keyword='robo'
+2025/07/30 12:58:14 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:58:14 PM - src.logger - INFO - Index: 196. Output: institution='mall plaza' keywords=['cambio', 'mercado'] main_keyword='cambio'
+2025/07/30 12:58:14 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:58:14 PM - src.logger - INFO - Index: 197. Output: institution='open plaza' keywords=['accidente', 'lesiones'] main_keyword='accidente'
+2025/07/30 12:58:15 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:58:15 PM - src.logger - INFO - Index: 198. Output: institution='mall aventura' keywords=['violencia'] main_keyword='violencia'
+2025/07/30 12:58:16 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:58:16 PM - src.logger - INFO - Index: 199. Output: institution='mall aventura' keywords=['asesinato', 'ajuste de cuentas', 'extorsión'] main_keyword='asesinato'
+2025/07/30 12:58:17 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:58:17 PM - src.logger - INFO - Index: 200. Output: institution='plaza vea' keywords=['delincuencia', 'robo'] main_keyword='delincuencia'
+2025/07/30 12:58:18 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:58:18 PM - src.logger - INFO - Index: 201. Output: institution='siete sopas' keywords=['discriminación', 'inclusión'] main_keyword='discriminación'
+2025/07/30 12:58:19 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:58:19 PM - src.logger - INFO - Index: 202. Output: institution='plaza san miguel' keywords=['seguridad', 'aglomeraciones'] main_keyword='seguridad'
+2025/07/30 12:58:20 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:58:20 PM - src.logger - INFO - Index: 203. Output: institution='none' keywords=['tensión', 'tragedia', 'reputación'] main_keyword='tensión'
+2025/07/30 12:58:21 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:58:21 PM - src.logger - INFO - Index: 204. Output: institution='none' keywords=['tensión', 'tragedia'] main_keyword='tensión'
+2025/07/30 12:58:22 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:58:22 PM - src.logger - INFO - Index: 205. Output: institution='none' keywords=['tensión', 'tragedia'] main_keyword='tensión'
+2025/07/30 12:58:23 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:58:23 PM - src.logger - INFO - Index: 206. Output: institution='mall del sur' keywords=['explosión', 'heridos'] main_keyword='explosión'
+2025/07/30 12:58:24 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:58:24 PM - src.logger - INFO - Index: 207. Output: institution='mall del sur' keywords=['explosivo', 'heridos'] main_keyword='explosivo'
+2025/07/30 12:58:25 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:58:25 PM - src.logger - INFO - Index: 208. Output: institution='mall del sur' keywords=['explosión', 'atentado', 'extorsión'] main_keyword='atentado'
+2025/07/30 12:58:26 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:58:26 PM - src.logger - INFO - Index: 209. Output: institution='None' keywords=['inseguridad'] main_keyword='inseguridad'
+2025/07/30 12:58:27 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:58:27 PM - src.logger - INFO - Index: 210. Output: institution='mall del sur' keywords=['ataque', 'extorsión', 'delincuencia'] main_keyword='ataque'
+2025/07/30 12:58:28 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:58:28 PM - src.logger - INFO - Index: 211. Output: institution='mall del sur' keywords=['delincuencia', 'violencia'] main_keyword='delincuencia'
+2025/07/30 12:58:29 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:58:29 PM - src.logger - INFO - Index: 212. Output: institution='mega plaza' keywords=['robo', 'detención'] main_keyword='robo'
+2025/07/30 12:58:30 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:58:30 PM - src.logger - INFO - Index: 213. Output: institution='plaza vea' keywords=['accidente'] main_keyword='accidente'
+2025/07/30 12:58:30 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:58:30 PM - src.logger - INFO - Index: 214. Output: institution='plaza vea' keywords=['accidente', 'lesiones', 'investigación'] main_keyword='accidente'
+2025/07/30 12:58:31 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:58:31 PM - src.logger - INFO - Index: 215. Output: institution='megaplaza' keywords=['accidente', 'muertes'] main_keyword='accidente'
+2025/07/30 12:58:32 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:58:32 PM - src.logger - INFO - Index: 216. Output: institution='None' keywords=['delincuencia', 'explosivos'] main_keyword='delincuencia'
+2025/07/30 12:58:33 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:58:33 PM - src.logger - INFO - Index: 217. Output: institution='promart' keywords=['accidente', 'inseguridad'] main_keyword='accidente'
+2025/07/30 12:58:34 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:58:34 PM - src.logger - INFO - Index: 218. Output: institution='real plaza' keywords=['balacera'] main_keyword='balacera'
+2025/07/30 12:58:35 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:58:35 PM - src.logger - INFO - Index: 219. Output: institution='cineplanet' keywords=['discriminación', 'discapacidad'] main_keyword='discriminación'
+2025/07/30 12:58:36 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:58:36 PM - src.logger - INFO - Index: 220. Output: institution='banco continental bbva' keywords=['robo', 'corrupción', 'fraude'] main_keyword='robo'
+2025/07/30 12:58:37 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:58:37 PM - src.logger - INFO - Index: 221. Output: institution='open plaza' keywords=['hurto', 'fraude', 'empleado sospechoso'] main_keyword='hurto'
+2025/07/30 12:58:38 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:58:38 PM - src.logger - INFO - Index: 222. Output: institution='bbva' keywords=['robo', 'fraude'] main_keyword='robo'
+2025/07/30 12:58:38 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:58:38 PM - src.logger - INFO - Index: 223. Output: institution='bbva' keywords=['robo', 'fraude'] main_keyword='robo'
+2025/07/30 12:58:39 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:58:39 PM - src.logger - INFO - Index: 224. Output: institution='falabella' keywords=['cierre', 'marca', 'ropa'] main_keyword='cierre'
+2025/07/30 12:58:40 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:58:40 PM - src.logger - INFO - Index: 225. Output: institution='bbva' keywords=['robo', 'fraude'] main_keyword='robo'
+2025/07/30 12:58:41 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:58:41 PM - src.logger - INFO - Index: 226. Output: institution='mega plaza' keywords=['robo', 'delincuencia'] main_keyword='robo'
+2025/07/30 12:58:42 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:58:42 PM - src.logger - INFO - Index: 227. Output: institution='real plaza' keywords=['justicia', 'ataque'] main_keyword='ataque'
+2025/07/30 12:58:42 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:58:42 PM - src.logger - INFO - Index: 228. Output: institution='makro' keywords=['desaparición'] main_keyword='desaparición'
+2025/07/30 12:58:43 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:58:43 PM - src.logger - INFO - Index: 229. Output: institution='mega plaza' keywords=['hurto', 'arresto ciudadano'] main_keyword='hurto'
+2025/07/30 12:58:44 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:58:44 PM - src.logger - INFO - Index: 230. Output: institution='mall aventura' keywords=['estafa', 'robo'] main_keyword='estafa'
+2025/07/30 12:58:45 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:58:45 PM - src.logger - INFO - Index: 231. Output: institution="mcdonald's" keywords=['suciedad', 'responsabilidad'] main_keyword='suciedad'
+2025/07/30 12:58:46 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:58:46 PM - src.logger - INFO - Index: 232. Output: institution='makro super mayorista' keywords=['clausura', 'salud', 'sanitaria'] main_keyword='clausura'
+2025/07/30 12:58:46 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:58:46 PM - src.logger - INFO - Index: 233. Output: institution='makro' keywords=['cierre', 'productos en mal estado', 'denuncia'] main_keyword='cierre'
+2025/07/30 12:58:47 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:58:47 PM - src.logger - INFO - Index: 234. Output: institution='mall plaza bellavista' keywords=['clima', 'infraestructura'] main_keyword='infraestructura'
+2025/07/30 12:58:48 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:58:48 PM - src.logger - INFO - Index: 235. Output: institution='plaza vea' keywords=['inundación', 'infraestructura'] main_keyword='inundación'
+2025/07/30 12:58:49 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:58:49 PM - src.logger - INFO - Index: 236. Output: institution='corporación innovativa s.a.c.' keywords=['accidente', 'muerte'] main_keyword='accidente'
+2025/07/30 12:58:50 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:58:50 PM - src.logger - INFO - Index: 237. Output: institution='open plaza' keywords=['irregularidad', 'deuda'] main_keyword='irregularidad'
+2025/07/30 12:58:50 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:58:50 PM - src.logger - INFO - Index: 238. Output: institution='metro' keywords=['robo'] main_keyword='robo'
+2025/07/30 12:58:51 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:58:51 PM - src.logger - INFO - Index: 239. Output: institution='real plaza' keywords=['infraestructura', 'accidente'] main_keyword='infraestructura'
+2025/07/30 12:58:52 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:58:52 PM - src.logger - INFO - Index: 240. Output: institution='real plaza' keywords=['infraestructura'] main_keyword='infraestructura'
+2025/07/30 12:58:53 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:58:53 PM - src.logger - INFO - Index: 241. Output: institution='real plaza' keywords=['infraestructura', 'accidente', 'heridos'] main_keyword='infraestructura'
+2025/07/30 12:58:54 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:58:54 PM - src.logger - INFO - Index: 242. Output: institution='real plaza' keywords=['infraestructura', 'accidente'] main_keyword='infraestructura'
+2025/07/30 12:58:55 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:58:55 PM - src.logger - INFO - Index: 243. Output: institution='real plaza' keywords=['infraestructura', 'accidente'] main_keyword='infraestructura'
+2025/07/30 12:58:56 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:58:56 PM - src.logger - INFO - Index: 244. Output: institution='real plaza' keywords=['infraestructura', 'colapso', 'heridos'] main_keyword='infraestructura'
+2025/07/30 12:58:57 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:58:57 PM - src.logger - INFO - Index: 245. Output: institution='real plaza' keywords=['infraestructura', 'accidente'] main_keyword='infraestructura'
+2025/07/30 12:58:57 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:58:57 PM - src.logger - INFO - Index: 246. Output: institution='real plaza' keywords=['colapso', 'lesionados', 'infraestructura'] main_keyword='colapso'
+2025/07/30 12:58:59 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:58:59 PM - src.logger - INFO - Index: 247. Output: institution='real plaza' keywords=['emergencia', 'infraestructura', 'heridos'] main_keyword='emergencia'
+2025/07/30 12:59:00 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:59:00 PM - src.logger - INFO - Index: 248. Output: institution='real plaza' keywords=['infraestructura', 'accidente', 'heridos'] main_keyword='infraestructura'
+2025/07/30 12:59:01 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:59:01 PM - src.logger - INFO - Index: 249. Output: institution='real plaza' keywords=['infraestructura'] main_keyword='infraestructura'
+2025/07/30 12:59:01 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:59:01 PM - src.logger - INFO - Index: 250. Output: institution='real plaza' keywords=['infraestructura'] main_keyword='infraestructura'
+2025/07/30 12:59:02 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:59:02 PM - src.logger - INFO - Index: 251. Output: institution='real plaza' keywords=['colapso', 'rescate'] main_keyword='colapso'
+2025/07/30 12:59:03 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:59:03 PM - src.logger - INFO - Index: 252. Output: institution='real plaza' keywords=['infraestructura'] main_keyword='infraestructura'
+2025/07/30 12:59:03 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:59:03 PM - src.logger - INFO - Index: 253. Output: institution='real plaza' keywords=['accidente', 'emergencia'] main_keyword='accidente'
+2025/07/30 12:59:04 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:59:04 PM - src.logger - INFO - Index: 254. Output: institution='real plaza' keywords=['infraestructura', 'accidente'] main_keyword='infraestructura'
+2025/07/30 12:59:06 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:59:06 PM - src.logger - INFO - Index: 255. Output: institution='real plaza' keywords=['colapso', 'víctimas', 'heridos'] main_keyword='colapso'
+2025/07/30 12:59:07 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:59:07 PM - src.logger - INFO - Index: 256. Output: institution='real plaza' keywords=['colapso', 'rescata'] main_keyword='colapso'
+2025/07/30 12:59:08 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:59:08 PM - src.logger - INFO - Index: 257. Output: institution='real plaza' keywords=['fallecidos', 'salud'] main_keyword='fallecidos'
+2025/07/30 12:59:09 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:59:09 PM - src.logger - INFO - Index: 258. Output: institution='real plaza' keywords=['colapso', 'fatalidades'] main_keyword='colapso'
+2025/07/30 12:59:10 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:59:10 PM - src.logger - INFO - Index: 259. Output: institution='real plaza' keywords=['infraestructura', 'accidente'] main_keyword='infraestructura'
+2025/07/30 12:59:11 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:59:11 PM - src.logger - INFO - Index: 260. Output: institution='real plaza' keywords=['infraestructura', 'colapso'] main_keyword='infraestructura'
+2025/07/30 12:59:12 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:59:12 PM - src.logger - INFO - Index: 261. Output: institution='real plaza' keywords=['emergencia', 'atención'] main_keyword='emergencia'
+2025/07/30 12:59:13 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:59:13 PM - src.logger - INFO - Index: 262. Output: institution='real plaza' keywords=['infraestructura', 'accidente'] main_keyword='infraestructura'
+2025/07/30 12:59:14 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:59:14 PM - src.logger - INFO - Index: 263. Output: institution='real plaza' keywords=['infraestructura', 'accidente'] main_keyword='infraestructura'
+2025/07/30 12:59:15 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:59:15 PM - src.logger - INFO - Index: 264. Output: institution='real plaza' keywords=['infraestructura', 'accidente'] main_keyword='infraestructura'
+2025/07/30 12:59:16 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:59:16 PM - src.logger - INFO - Index: 265. Output: institution='real plaza' keywords=['colapso', 'rescates'] main_keyword='colapso'
+2025/07/30 12:59:17 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:59:17 PM - src.logger - INFO - Index: 266. Output: institution='real plaza' keywords=['claustura', 'investigación', 'tragedia'] main_keyword='claustura'
+2025/07/30 12:59:18 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:59:18 PM - src.logger - INFO - Index: 267. Output: institution='real plaza' keywords=['derrumbe', 'víctimas', 'heridos'] main_keyword='derrumbe'
+2025/07/30 12:59:19 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:59:19 PM - src.logger - INFO - Index: 268. Output: institution='real plaza' keywords=['rápida acción', 'atención', 'tragedia'] main_keyword='tragedia'
+2025/07/30 12:59:20 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:59:20 PM - src.logger - INFO - Index: 269. Output: institution='real plaza' keywords=['coimas', 'denuncia'] main_keyword='coimas'
+2025/07/30 12:59:21 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:59:21 PM - src.logger - INFO - Index: 270. Output: institution='real plaza' keywords=['colapso', 'heridos'] main_keyword='colapso'
+2025/07/30 12:59:21 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:59:21 PM - src.logger - INFO - Index: 271. Output: institution='real plaza' keywords=['infraestructura', 'accidente'] main_keyword='infraestructura'
+2025/07/30 12:59:23 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:59:23 PM - src.logger - INFO - Index: 272. Output: institution='real plaza' keywords=['demolición', 'garantías', 'tragedia'] main_keyword='demolición'
+2025/07/30 12:59:24 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:59:24 PM - src.logger - INFO - Index: 273. Output: institution='real plaza' keywords=['tragedia', 'heridos'] main_keyword='tragedia'
+2025/07/30 12:59:25 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:59:25 PM - src.logger - INFO - Index: 274. Output: institution='none' keywords=['salud', 'niños'] main_keyword='heridos'
+2025/07/30 12:59:26 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:59:26 PM - src.logger - INFO - Index: 275. Output: institution='real plaza' keywords=['delivery', 'bomberos'] main_keyword='delivery'
+2025/07/30 12:59:27 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:59:27 PM - src.logger - INFO - Index: 276. Output: institution='real plaza' keywords=['cerrado', 'observaciones', 'peligro', 'tragedia'] main_keyword='tragedia'
+2025/07/30 12:59:28 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:59:28 PM - src.logger - INFO - Index: 277. Output: institution='real plaza' keywords=['riesgo', 'vacado'] main_keyword='riesgo'
+2025/07/30 12:59:30 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:59:30 PM - src.logger - INFO - Index: 278. Output: institution='real plaza' keywords=['eliminación', 'información', 'tragedia', 'infraestructura'] main_keyword='tragedia'
+2025/07/30 12:59:31 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:59:31 PM - src.logger - INFO - Index: 279. Output: institution='real plaza' keywords=['cierre', 'solidaridad'] main_keyword='cierre'
+2025/07/30 12:59:31 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:59:31 PM - src.logger - INFO - Index: 280. Output: institution='real plaza' keywords=['tragedia', 'infraestructura'] main_keyword='tragedia'
+2025/07/30 12:59:32 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:59:32 PM - src.logger - INFO - Index: 281. Output: institution='real plaza' keywords=['colapso', 'ayuda'] main_keyword='colapso'
+2025/07/30 12:59:33 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:59:33 PM - src.logger - INFO - Index: 282. Output: institution='real plaza' keywords=['infraestructura', 'accidente', 'emergencia'] main_keyword='infraestructura'
+2025/07/30 12:59:34 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:59:34 PM - src.logger - INFO - Index: 283. Output: institution='real plaza' keywords=['accidente', 'heridos', 'tragedia'] main_keyword='tragedia'
+2025/07/30 12:59:35 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:59:35 PM - src.logger - INFO - Index: 284. Output: institution='real plaza' keywords=['derrumbe', 'seguridad', 'responsabilidad'] main_keyword='derrumbe'
+2025/07/30 12:59:36 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:59:36 PM - src.logger - INFO - Index: 285. Output: institution='real plaza' keywords=['accidente', 'estructura'] main_keyword='accidente'
+2025/07/30 12:59:37 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:59:37 PM - src.logger - INFO - Index: 286. Output: institution='real plaza' keywords=['accidente', 'infraestructura', 'drama'] main_keyword='accidente'
+2025/07/30 12:59:38 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:59:38 PM - src.logger - INFO - Index: 287. Output: institution='real plaza' keywords=['infraestructura'] main_keyword='infraestructura'
+2025/07/30 12:59:39 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:59:39 PM - src.logger - INFO - Index: 288. Output: institution='real plaza' keywords=['infraestructura', 'colapso'] main_keyword='infraestructura'
+2025/07/30 12:59:40 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:59:40 PM - src.logger - INFO - Index: 289. Output: institution='real plaza' keywords=['cierre', 'duelo', 'solidaridad'] main_keyword='cierre'
+2025/07/30 12:59:41 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:59:41 PM - src.logger - INFO - Index: 290. Output: institution='real plaza' keywords=['clausura', 'riesgo', 'infraestructura'] main_keyword='clausura'
+2025/07/30 12:59:42 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:59:42 PM - src.logger - INFO - Index: 291. Output: institution='real plaza' keywords=['emergencia'] main_keyword='emergencia'
+2025/07/30 12:59:43 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:59:43 PM - src.logger - INFO - Index: 292. Output: institution='real plaza' keywords=['infraestructura', 'colapso', 'rescate'] main_keyword='colapso'
+2025/07/30 12:59:44 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:59:44 PM - src.logger - INFO - Index: 293. Output: institution='real plaza' keywords=['infraestructura', 'diseño', 'fallas', 'tragedia'] main_keyword='infraestructura'
+2025/07/30 12:59:45 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:59:45 PM - src.logger - INFO - Index: 294. Output: institution='real plaza' keywords=['colapso', 'sobrecarga', 'infraestructura'] main_keyword='colapso'
+2025/07/30 12:59:46 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:59:46 PM - src.logger - INFO - Index: 295. Output: institution='real plaza' keywords=['accidente', 'infraestructura'] main_keyword='accidente'
+2025/07/30 12:59:47 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:59:47 PM - src.logger - INFO - Index: 296. Output: institution='real plaza' keywords=['tragedia', 'rescate', 'heridos'] main_keyword='tragedia'
+2025/07/30 12:59:48 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:59:48 PM - src.logger - INFO - Index: 297. Output: institution='real plaza' keywords=['colapso', 'infraestructura'] main_keyword='colapso'
+2025/07/30 12:59:49 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:59:49 PM - src.logger - INFO - Index: 298. Output: institution='real plaza' keywords=['cierre', 'tragedia'] main_keyword='cierre'
+2025/07/30 12:59:50 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:59:50 PM - src.logger - INFO - Index: 299. Output: institution='real plaza' keywords=['tragedia', 'quejas', 'denuncias'] main_keyword='tragedia'
+2025/07/30 12:59:51 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:59:51 PM - src.logger - INFO - Index: 300. Output: institution='real plaza' keywords=['fallecidos', 'colapso', 'infraestructura'] main_keyword='infraestructura'
+2025/07/30 12:59:51 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:59:51 PM - src.logger - INFO - Index: 301. Output: institution='municipio provincial' keywords=['clausura', 'peligro', 'demolición'] main_keyword='clausura'
+2025/07/30 12:59:52 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:59:52 PM - src.logger - INFO - Index: 302. Output: institution='real plaza' keywords=['donaciones', 'tragedia'] main_keyword='tragedia'
+2025/07/30 12:59:54 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:59:54 PM - src.logger - INFO - Index: 303. Output: institution='real plaza' keywords=['colapso', 'accidente', 'solidaridad'] main_keyword='colapso'
+2025/07/30 12:59:55 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:59:55 PM - src.logger - INFO - Index: 304. Output: institution='real plaza' keywords=['infraestructura', 'accidente', 'víctimas'] main_keyword='infraestructura'
+2025/07/30 12:59:55 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:59:55 PM - src.logger - INFO - Index: 305. Output: institution='real plaza' keywords=['colapso', 'accidente'] main_keyword='colapso'
+2025/07/30 12:59:56 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:59:56 PM - src.logger - INFO - Index: 306. Output: institution='real plaza' keywords=['cierre', 'cuestionamiento'] main_keyword='cierre'
+2025/07/30 12:59:58 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:59:58 PM - src.logger - INFO - Index: 307. Output: institution='real plaza' keywords=['cierre', 'cuestionamiento'] main_keyword='cierre'
+2025/07/30 12:59:59 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:59:59 PM - src.logger - INFO - Index: 308. Output: institution='real plaza' keywords=['colapso', 'sanciones'] main_keyword='colapso'
+2025/07/30 12:59:59 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 12:59:59 PM - src.logger - INFO - Index: 309. Output: institution='real plaza' keywords=['colapso', 'emergencia'] main_keyword='colapso'
+2025/07/30 13:00:00 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:00:00 PM - src.logger - INFO - Index: 310. Output: institution='real plaza' keywords=['clausura', 'inversión', 'protesta'] main_keyword='clausura'
+2025/07/30 13:00:01 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:00:01 PM - src.logger - INFO - Index: 311. Output: institution='real plaza' keywords=['infraestructura', 'diseño', 'mantenimiento', 'tragedia'] main_keyword='infraestructura'
+2025/07/30 13:00:02 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:00:02 PM - src.logger - INFO - Index: 312. Output: institution='real plaza' keywords=['tragedia', 'infraestructura', 'colapso'] main_keyword='tragedia'
+2025/07/30 13:00:03 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:00:03 PM - src.logger - INFO - Index: 313. Output: institution='real plaza' keywords=['tragedia', 'colapso', 'infraestructura'] main_keyword='colapso'
+2025/07/30 13:00:04 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:00:04 PM - src.logger - INFO - Index: 314. Output: institution='None' keywords=['supervisión', 'vigilancia'] main_keyword='supervisión'
+2025/07/30 13:00:05 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:00:05 PM - src.logger - INFO - Index: 315. Output: institution='intercorp' keywords=['homicidio', 'negligencia', 'accidente'] main_keyword='homicidio'
+2025/07/30 13:00:06 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:00:06 PM - src.logger - INFO - Index: 316. Output: institution='real plaza' keywords=['colapso', 'infraestructura', 'niños', 'estado crítico'] main_keyword='colapso'
+2025/07/30 13:00:06 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:00:06 PM - src.logger - INFO - Index: 317. Output: institution='real plaza' keywords=['colapso', 'investigación', 'responsabilidad'] main_keyword='colapso'
+2025/07/30 13:00:07 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:00:07 PM - src.logger - INFO - Index: 318. Output: institution='real plaza' keywords=['accidente', 'infraestructura'] main_keyword='infraestructura'
+2025/07/30 13:00:08 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:00:08 PM - src.logger - INFO - Index: 319. Output: institution='mall plaza' keywords=['inspección', 'seguridad'] main_keyword='inspección'
+2025/07/30 13:00:09 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:00:09 PM - src.logger - INFO - Index: 320. Output: institution='real plaza' keywords=['infraestructura', 'mantenimiento'] main_keyword='infraestructura'
+2025/07/30 13:00:09 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:00:09 PM - src.logger - INFO - Index: 321. Output: institution='mall aventura plaza' keywords=['inspección', 'seguridad'] main_keyword='inspección'
+2025/07/30 13:00:10 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:00:10 PM - src.logger - INFO - Index: 322. Output: institution='real plaza' keywords=['rescate'] main_keyword='rescate'
+2025/07/30 13:00:11 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:00:11 PM - src.logger - INFO - Index: 323. Output: institution='real plaza' keywords=['accidente', 'infraestructura', 'pérdida'] main_keyword='accidente'
+2025/07/30 13:00:12 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:00:12 PM - src.logger - INFO - Index: 324. Output: institution='real plaza' keywords=['infraestructura', 'colapso', 'lluvias'] main_keyword='colapso'
+2025/07/30 13:00:13 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:00:13 PM - src.logger - INFO - Index: 325. Output: institution='centro comercial' keywords=['clausura', 'deficiencias'] main_keyword='clausura'
+2025/07/30 13:00:18 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:00:18 PM - src.logger - INFO - Index: 326. Output: institution='real plaza' keywords=['infraestructura', 'emergencia', 'peligro'] main_keyword='infraestructura'
+2025/07/30 13:00:19 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:00:19 PM - src.logger - INFO - Index: 327. Output: institution='real plaza' keywords=['accidente'] main_keyword='accidente'
+2025/07/30 13:00:20 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:00:20 PM - src.logger - INFO - Index: 328. Output: institution='real plaza' keywords=['colapso', 'fatalidad', 'infraestructura'] main_keyword='colapso'
+2025/07/30 13:00:21 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:00:21 PM - src.logger - INFO - Index: 329. Output: institution='real plaza' keywords=['accidente', 'muerte'] main_keyword='muerte'
+2025/07/30 13:00:21 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:00:21 PM - src.logger - INFO - Index: 330. Output: institution='real plaza' keywords=['tragedia'] main_keyword='tragedia'
+2025/07/30 13:00:22 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:00:22 PM - src.logger - INFO - Index: 331. Output: institution='real plaza' keywords=['colapso', 'solidaridad'] main_keyword='colapso'
+2025/07/30 13:00:23 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:00:23 PM - src.logger - INFO - Index: 332. Output: institution='real plaza' keywords=['desaparición'] main_keyword='desaparición'
+2025/07/30 13:00:24 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:00:24 PM - src.logger - INFO - Index: 333. Output: institution='real plaza' keywords=['accidente', 'fallecimiento'] main_keyword='fallecimiento'
+2025/07/30 13:00:25 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:00:25 PM - src.logger - INFO - Index: 334. Output: institution='real plaza' keywords=['accidente', 'infraestructura', 'mortalidad'] main_keyword='accidente'
+2025/07/30 13:00:26 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:00:26 PM - src.logger - INFO - Index: 335. Output: institution='real plaza' keywords=['colapso', 'humedad', 'infrastructure'] main_keyword='colapso'
+2025/07/30 13:00:27 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:00:27 PM - src.logger - INFO - Index: 336. Output: institution='intercorp' keywords=['homicidio culposo'] main_keyword='homicidio'
+2025/07/30 13:00:28 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:00:28 PM - src.logger - INFO - Index: 337. Output: institution='real plaza' keywords=['colapso', 'solidaridad'] main_keyword='colapso'
+2025/07/30 13:00:29 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:00:29 PM - src.logger - INFO - Index: 338. Output: institution='real plaza' keywords=['tragedia', 'colapso', 'heridos', 'fallecidos'] main_keyword='tragedia'
+2025/07/30 13:00:30 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:00:30 PM - src.logger - INFO - Index: 339. Output: institution='real plaza' keywords=['tragedia', 'infraestructura'] main_keyword='tragedia'
+2025/07/30 13:00:31 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:00:31 PM - src.logger - INFO - Index: 340. Output: institution='real plaza' keywords=['colapso', 'accidente', 'rescate'] main_keyword='colapso'
+2025/07/30 13:00:32 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:00:32 PM - src.logger - INFO - Index: 341. Output: institution='real plaza' keywords=['colapso', 'infraestructura', 'fatalidad'] main_keyword='colapso'
+2025/07/30 13:00:33 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:00:33 PM - src.logger - INFO - Index: 342. Output: institution='plaza el sol' keywords=['supervisión', 'infraestructura', 'crisis'] main_keyword='supervisión'
+2025/07/30 13:00:34 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:00:34 PM - src.logger - INFO - Index: 343. Output: institution='real plaza' keywords=['deficiencias', 'seguridad'] main_keyword='seguridad'
+2025/07/30 13:00:34 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:00:34 PM - src.logger - INFO - Index: 344. Output: institution='real plaza' keywords=['tragedia', 'heridos', 'infraestructura'] main_keyword='tragedia'
+2025/07/30 13:00:35 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:00:35 PM - src.logger - INFO - Index: 345. Output: institution='real plaza' keywords=['tragedia', 'colapso', 'fallecimiento'] main_keyword='tragedia'
+2025/07/30 13:00:36 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:00:36 PM - src.logger - INFO - Index: 346. Output: institution='real plaza' keywords=['calidad', 'corrosión', 'inspección'] main_keyword='colapso'
+2025/07/30 13:00:37 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:00:37 PM - src.logger - INFO - Index: 347. Output: institution='real plaza' keywords=['accidente', 'infraestructura'] main_keyword='accidente'
+2025/07/30 13:00:37 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:00:37 PM - src.logger - INFO - Index: 348. Output: institution='real plaza' keywords=['tragedia', 'colapso', 'fallecidos', 'heridos'] main_keyword='tragedia'
+2025/07/30 13:00:38 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:00:38 PM - src.logger - INFO - Index: 349. Output: institution='real plaza' keywords=['infraestructura', 'accidente', 'riesgos'] main_keyword='infraestructura'
+2025/07/30 13:00:39 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:00:39 PM - src.logger - INFO - Index: 350. Output: institution='real plaza' keywords=['protestas', 'justicia', 'accidente'] main_keyword='protestas'
+2025/07/30 13:00:40 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:00:40 PM - src.logger - INFO - Index: 351. Output: institution='real plaza' keywords=['colapso', 'homenaje'] main_keyword='colapso'
+2025/07/30 13:00:41 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:00:41 PM - src.logger - INFO - Index: 352. Output: institution='real plaza' keywords=['tragedia'] main_keyword='tragedia'
+2025/07/30 13:00:42 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:00:42 PM - src.logger - INFO - Index: 353. Output: institution='real plaza' keywords=['accidente', 'duelo', 'igual'] main_keyword='accidente'
+2025/07/30 13:00:42 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:00:42 PM - src.logger - INFO - Index: 354. Output: institution='real plaza' keywords=['fiscalización', 'estructura', 'mantenimiento'] main_keyword='fiscalización'
+2025/07/30 13:00:43 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:00:43 PM - src.logger - INFO - Index: 355. Output: institution='real plaza' keywords=['tragedia'] main_keyword='tragedia'
+2025/07/30 13:00:44 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:00:44 PM - src.logger - INFO - Index: 356. Output: institution='real plaza' keywords=['colapso', 'rescate'] main_keyword='colapso'
+2025/07/30 13:00:45 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:00:45 PM - src.logger - INFO - Index: 357. Output: institution='real plaza' keywords=['colapso', 'muertos'] main_keyword='colapso'
+2025/07/30 13:00:46 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:00:46 PM - src.logger - INFO - Index: 358. Output: institution='real plaza' keywords=['incidente', 'infraestructura', 'mantenimiento'] main_keyword='incidente'
+2025/07/30 13:00:47 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:00:47 PM - src.logger - INFO - Index: 359. Output: institution='real plaza' keywords=['accidente', 'rescatar', 'amputación'] main_keyword='accidente'
+2025/07/30 13:00:47 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:00:47 PM - src.logger - INFO - Index: 360. Output: institution='real plaza' keywords=['supervisión', 'tragedia'] main_keyword='tragedia'
+2025/07/30 13:00:49 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:00:49 PM - src.logger - INFO - Index: 361. Output: institution='None' keywords=['clausura', 'municipalidades'] main_keyword='clausura'
+2025/07/30 13:00:50 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:00:50 PM - src.logger - INFO - Index: 362. Output: institution='real plaza' keywords=['víctimas', 'fallecidos'] main_keyword='víctimas'
+2025/07/30 13:00:51 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:00:51 PM - src.logger - INFO - Index: 363. Output: institution='real plaza' keywords=['infraestructura', 'legislación', 'seguridad'] main_keyword='infraestructura'
+2025/07/30 13:00:51 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:00:51 PM - src.logger - INFO - Index: 364. Output: institution='real plaza' keywords=['accidente', 'infraestructura', 'amputación'] main_keyword='accidente'
+2025/07/30 13:00:52 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:00:52 PM - src.logger - INFO - Index: 365. Output: institution='real plaza' keywords=['accidente', 'infraestructura', 'fatalidad'] main_keyword='accidente'
+2025/07/30 13:00:53 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:00:53 PM - src.logger - INFO - Index: 366. Output: institution='real plaza' keywords=['tragedia', 'accidente'] main_keyword='tragedia'
+2025/07/30 13:00:54 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:00:54 PM - src.logger - INFO - Index: 367. Output: institution='real plaza' keywords=['colapso', 'tragedia', 'muerte', 'heridos'] main_keyword='colapso'
+2025/07/30 13:00:55 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:00:55 PM - src.logger - INFO - Index: 368. Output: institution='real plaza' keywords=['accidente', 'infraestructura', 'salud'] main_keyword='accidente'
+2025/07/30 13:00:56 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:00:56 PM - src.logger - INFO - Index: 369. Output: institution='real plaza' keywords=['colapso', 'unidad'] main_keyword='colapso'
+2025/07/30 13:00:56 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:00:56 PM - src.logger - INFO - Index: 370. Output: institution='real plaza' keywords=['justicia', 'accidente', 'infraestructura'] main_keyword='colapso'
+2025/07/30 13:00:58 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:00:58 PM - src.logger - INFO - Index: 371. Output: institution='real plaza' keywords=['tragedia', 'rescate'] main_keyword='tragedia'
+2025/07/30 13:00:58 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:00:58 PM - src.logger - INFO - Index: 372. Output: institution='mall del sur' keywords=['grietas', 'pánico'] main_keyword='grietas'
+2025/07/30 13:00:59 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:00:59 PM - src.logger - INFO - Index: 373. Output: institution='mall del sur' keywords=['infraestructura', 'preocupación'] main_keyword='preocupación'
+2025/07/30 13:01:00 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:01:00 PM - src.logger - INFO - Index: 374. Output: institution='real plaza' keywords=['colapso', 'infraestructura'] main_keyword='colapso'
+2025/07/30 13:01:01 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:01:01 PM - src.logger - INFO - Index: 375. Output: institution='real plaza' keywords=['colapso', 'apoyo', 'indignación'] main_keyword='colapso'
+2025/07/30 13:01:02 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:01:02 PM - src.logger - INFO - Index: 376. Output: institution='real plaza' keywords=['accidente', 'justicia'] main_keyword='accidente'
+2025/07/30 13:01:02 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:01:02 PM - src.logger - INFO - Index: 377. Output: institution='real plaza' keywords=['protesta'] main_keyword='protesta'
+2025/07/30 13:01:03 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:01:03 PM - src.logger - INFO - Index: 378. Output: institution='real plaza' keywords=['protesta', 'seguridad'] main_keyword='protesta'
+2025/07/30 13:01:04 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:01:04 PM - src.logger - INFO - Index: 379. Output: institution='real plaza' keywords=['protesta', 'vandalismo'] main_keyword='protesta'
+2025/07/30 13:01:04 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:01:04 PM - src.logger - INFO - Index: 380. Output: institution='real plaza' keywords=['justicia'] main_keyword='justicia'
+2025/07/30 13:01:05 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:01:05 PM - src.logger - INFO - Index: 381. Output: institution='real plaza' keywords=['indemnización'] main_keyword='indemnización'
+2025/07/30 13:01:06 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:01:06 PM - src.logger - INFO - Index: 382. Output: institution='real plaza' keywords=['estructura', 'tragedia', 'investigación'] main_keyword='estructura'
+2025/07/30 13:01:07 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:01:07 PM - src.logger - INFO - Index: 383. Output: institution='real plaza' keywords=['colapso', 'muerte', 'incompetencia'] main_keyword='colapso'
+2025/07/30 13:01:08 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:01:08 PM - src.logger - INFO - Index: 384. Output: institution='plaza vea' keywords=['inspección', 'infraestructura'] main_keyword='inspección'
+2025/07/30 13:01:09 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:01:09 PM - src.logger - INFO - Index: 385. Output: institution='real plaza' keywords=['infraestructura', 'seguridad', 'accidente'] main_keyword='infraestructura'
+2025/07/30 13:01:11 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:01:11 PM - src.logger - INFO - Index: 386. Output: institution='real plaza' keywords=['infraestructura', 'accidente'] main_keyword='infraestructura'
+2025/07/30 13:01:12 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:01:12 PM - src.logger - INFO - Index: 387. Output: institution='real plaza' keywords=['accidente', 'investigación'] main_keyword='accidente'
+2025/07/30 13:01:13 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:01:13 PM - src.logger - INFO - Index: 388. Output: institution='None' keywords=['homenaje póstumo'] main_keyword='homenaje'
+2025/07/30 13:01:14 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:01:14 PM - src.logger - INFO - Index: 389. Output: institution='plaza vea' keywords=['cierre', 'deficiencias', 'seguridad'] main_keyword='cierre'
+2025/07/30 13:01:14 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:01:14 PM - src.logger - INFO - Index: 390. Output: institution='real plaza' keywords=['tragedia', 'cuestionamiento'] main_keyword='tragedia'
+2025/07/30 13:01:15 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:01:15 PM - src.logger - INFO - Index: 391. Output: institution='real plaza' keywords=['homicidio', 'daño potencial'] main_keyword='homicidio'
+2025/07/30 13:01:16 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:01:16 PM - src.logger - INFO - Index: 392. Output: institution='None' keywords=['infraestructura'] main_keyword='infraestructura'
+2025/07/30 13:01:17 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:01:17 PM - src.logger - INFO - Index: 393. Output: institution='falabella' keywords=['emergencia', 'seguridad', 'accidente', 'ayuda'] main_keyword='emergencia'
+2025/07/30 13:01:18 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:01:18 PM - src.logger - INFO - Index: 394. Output: institution='real plaza' keywords=['accidente', 'infraestructura'] main_keyword='accidente'
+2025/07/30 13:01:20 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:01:20 PM - src.logger - INFO - Index: 395. Output: institution='plaza vea' keywords=['verificación', 'riesgos', 'seguridad'] main_keyword='verificación'
+2025/07/30 13:01:21 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:01:21 PM - src.logger - INFO - Index: 396. Output: institution='mall del sur' keywords=['infraestructura', 'accidente'] main_keyword='accidente'
+2025/07/30 13:01:21 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:01:21 PM - src.logger - INFO - Index: 397. Output: institution='real plaza' keywords=['cierre', 'temporal'] main_keyword='cierre'
+2025/07/30 13:01:22 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:01:22 PM - src.logger - INFO - Index: 398. Output: institution='mall del sur' keywords=['susto'] main_keyword='susto'
+2025/07/30 13:01:23 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:01:23 PM - src.logger - INFO - Index: 399. Output: institution='real plaza' keywords=['clausura', 'deficiencias', 'infraestructura'] main_keyword='clausura'
+2025/07/30 13:01:24 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:01:24 PM - src.logger - INFO - Index: 400. Output: institution=None keywords=['accidente', 'amputación'] main_keyword='accidente'
+2025/07/30 13:01:25 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:01:25 PM - src.logger - INFO - Index: 401. Output: institution='arequipa center' keywords=['peligro', 'seguridad'] main_keyword='peligro'
+2025/07/30 13:01:25 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:01:25 PM - src.logger - INFO - Index: 402. Output: institution='mall aventura iquitos' keywords=['prevención', 'supervisión', 'estructura', 'tensión'] main_keyword='prevención'
+2025/07/30 13:01:27 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:01:27 PM - src.logger - INFO - Index: 403. Output: institution='mall aventura porongoche' keywords=['inspección', 'mantenimiento', 'filtración', 'comunicación', 'seguridad'] main_keyword='inspección'
+2025/07/30 13:01:28 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:01:28 PM - src.logger - INFO - Index: 404. Output: institution='real plaza' keywords=['clausura', 'seguridad'] main_keyword='clausura'
+2025/07/30 13:01:29 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:01:29 PM - src.logger - INFO - Index: 405. Output: institution='real plaza' keywords=['clausura', 'infraestructura'] main_keyword='clausura'
+2025/07/30 13:01:30 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:01:30 PM - src.logger - INFO - Index: 406. Output: institution='plaza del sol' keywords=['clausura', 'seguridad'] main_keyword='clausura'
+2025/07/30 13:01:31 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:01:31 PM - src.logger - INFO - Index: 407. Output: institution='real plaza' keywords=['responsabilidad', 'muerte'] main_keyword='muerte'
+2025/07/30 13:01:32 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:01:32 PM - src.logger - INFO - Index: 408. Output: institution='real plaza' keywords=['derrumbe', 'negligencia', 'justicia'] main_keyword='derrumbe'
+2025/07/30 13:01:33 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:01:33 PM - src.logger - INFO - Index: 409. Output: institution='real plaza' keywords=['deficiencias', 'cerrado', 'inspección'] main_keyword='deficiencias'
+2025/07/30 13:01:34 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:01:34 PM - src.logger - INFO - Index: 410. Output: institution='mall aventura porongoche' keywords=['inspección', 'seguridad', 'infraestructura'] main_keyword='inspección'
+2025/07/30 13:01:35 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:01:35 PM - src.logger - INFO - Index: 411. Output: institution='mall plaza' keywords=['infraestructura', 'filtración'] main_keyword='infraestructura'
+2025/07/30 13:01:36 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:01:36 PM - src.logger - INFO - Index: 412. Output: institution='real plaza' keywords=['infraestructura', 'colapso', 'preocupación'] main_keyword='infraestructura'
+2025/07/30 13:01:37 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:01:37 PM - src.logger - INFO - Index: 413. Output: institution='real plaza' keywords=['infraestructura', 'fatalidad', 'accidente'] main_keyword='fatalidad'
+2025/07/30 13:01:38 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:01:38 PM - src.logger - INFO - Index: 414. Output: institution='plaza del sol' keywords=['clausura', 'apertura'] main_keyword='apertura'
+2025/07/30 13:01:39 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:01:39 PM - src.logger - INFO - Index: 415. Output: institution='real plaza' keywords=['deficiencias', 'clausura', 'trabajadores'] main_keyword='clausura'
+2025/07/30 13:01:40 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:01:40 PM - src.logger - INFO - Index: 416. Output: institution='real plaza' keywords=['accidente', 'inseguridad', 'tragedia', 'justicia'] main_keyword='accidente'
+2025/07/30 13:01:41 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:01:41 PM - src.logger - INFO - Index: 417. Output: institution='real plaza' keywords=['derrumbe', 'negligencia', 'justicia'] main_keyword='derrumbe'
+2025/07/30 13:01:42 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:01:42 PM - src.logger - INFO - Index: 418. Output: institution='real plaza' keywords=['clausura', 'inspección', 'infraestructura'] main_keyword='clausura'
+2025/07/30 13:01:43 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:01:43 PM - src.logger - INFO - Index: 419. Output: institution='real plaza' keywords=['clausura', 'deficiencias'] main_keyword='clausura'
+2025/07/30 13:01:44 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:01:44 PM - src.logger - INFO - Index: 420. Output: institution='real plaza' keywords=['clausura', 'reacción', 'politicos'] main_keyword='clausura'
+2025/07/30 13:01:45 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:01:45 PM - src.logger - INFO - Index: 421. Output: institution='mega plaza' keywords=['infraestructura', 'fisuras', 'clausura'] main_keyword='infraestructura'
+2025/07/30 13:01:46 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:01:46 PM - src.logger - INFO - Index: 422. Output: institution='plaza vea, promart' keywords=['clausura', 'deficiencias', 'riesgo'] main_keyword='clausura'
+2025/07/30 13:01:47 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:01:47 PM - src.logger - INFO - Index: 423. Output: institution='real plaza' keywords=['falta de fiscalización', 'responsabilidad', 'colapso'] main_keyword='falta de fiscalización'
+2025/07/30 13:01:48 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:01:48 PM - src.logger - INFO - Index: 424. Output: institution='real plaza' keywords=['revisión', 'instalaciones'] main_keyword='revisión'
+2025/07/30 13:01:49 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:01:49 PM - src.logger - INFO - Index: 425. Output: institution='plaza el sol' keywords=['deficiencias', 'infraestructura', 'clausura'] main_keyword='clausura'
+2025/07/30 13:01:50 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:01:50 PM - src.logger - INFO - Index: 426. Output: institution='real plaza' keywords=['colapso', 'infraestructura'] main_keyword='colapso'
+2025/07/30 13:01:50 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:01:50 PM - src.logger - INFO - Index: 427. Output: institution='real plaza' keywords=['operativos', 'normativas', 'colapso', 'infraestructura'] main_keyword='colapso'
+2025/07/30 13:01:51 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:01:51 PM - src.logger - INFO - Index: 428. Output: institution='plaza del sol huacho' keywords=['clausura', 'servicio', 'energía'] main_keyword='clausura'
+2025/07/30 13:01:52 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:01:52 PM - src.logger - INFO - Index: 429. Output: institution='real plaza' keywords=['tragedia'] main_keyword='tragedia'
+2025/07/30 13:01:53 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:01:53 PM - src.logger - INFO - Index: 430. Output: institution='municipalidad de bellavista' keywords=['clausura', 'video'] main_keyword='clausura'
+2025/07/30 13:01:54 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:01:54 PM - src.logger - INFO - Index: 431. Output: institution='real plaza' keywords=['pérdida', 'auspiciador'] main_keyword='auspiciador'
+2025/07/30 13:01:55 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:01:55 PM - src.logger - INFO - Index: 432. Output: institution='plaza vea' keywords=['clausura', 'normas', 'sanitarias'] main_keyword='clausura'
+2025/07/30 13:01:56 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:01:56 PM - src.logger - INFO - Index: 433. Output: institution='plaza del sol' keywords=['cierre', 'comunicado', 'atención'] main_keyword='cierre'
+2025/07/30 13:01:57 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:01:57 PM - src.logger - INFO - Index: 434. Output: institution='real plaza' keywords=['infraestructura', 'tragedia'] main_keyword='infraestructura'
+2025/07/30 13:01:58 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:01:58 PM - src.logger - INFO - Index: 435. Output: institution='sodimac' keywords=['tiroteo', 'extorsión'] main_keyword='extorsión'
+2025/07/30 13:01:59 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:01:59 PM - src.logger - INFO - Index: 436. Output: institution='real plaza' keywords=['inspección', 'colapso', 'seguridad'] main_keyword='colapso'
+2025/07/30 13:02:00 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:02:00 PM - src.logger - INFO - Index: 437. Output: institution='mall aventura plaza' keywords=['extorsión', 'delincuencia'] main_keyword='extorsión'
+2025/07/30 13:02:01 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:02:01 PM - src.logger - INFO - Index: 438. Output: institution='real plaza' keywords=['infraestructura', 'negligencia', 'accidente', 'pérdida', 'daño'] main_keyword='infracción'
+2025/07/30 13:02:02 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:02:02 PM - src.logger - INFO - Index: 439. Output: institution='real plaza' keywords=['accidente', 'tragedia', 'derrumbe'] main_keyword='tragedia'
+2025/07/30 13:02:03 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:02:03 PM - src.logger - INFO - Index: 440. Output: institution='real plaza' keywords=['cierre', 'temporal'] main_keyword='cierre'
+2025/07/30 13:02:04 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:02:04 PM - src.logger - INFO - Index: 441. Output: institution='real plaza' keywords=['cerrado', 'fiscalización'] main_keyword='cerrado'
+2025/07/30 13:02:05 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:02:05 PM - src.logger - INFO - Index: 442. Output: institution='plaza norte' keywords=['clausura', 'fiscalización'] main_keyword='clausura'
+2025/07/30 13:02:07 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:02:07 PM - src.logger - INFO - Index: 443. Output: institution='real plaza' keywords=['indemnización', 'imagen'] main_keyword='imagen'
+2025/07/30 13:02:08 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:02:08 PM - src.logger - INFO - Index: 444. Output: institution='mall plaza' keywords=['inspección', 'infraestructura', 'seguridad'] main_keyword='inspección'
+2025/07/30 13:02:09 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:02:09 PM - src.logger - INFO - Index: 445. Output: institution='plaza vea' keywords=['infraestructura', 'seguridad'] main_keyword='infraestructura'
+2025/07/30 13:02:10 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:02:10 PM - src.logger - INFO - Index: 446. Output: institution='intercorp' keywords=['heridos', 'finanzas', 'investigación'] main_keyword='finanzas'
+2025/07/30 13:02:11 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:02:11 PM - src.logger - INFO - Index: 447. Output: institution='plaza el sol' keywords=['clausura', 'mala administración', 'pérdida de locatarios'] main_keyword='clausura'
+2025/07/30 13:02:12 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:02:12 PM - src.logger - INFO - Index: 448. Output: institution='mall aventura iquitos' keywords=['intervención', 'infraestructura', 'prevención'] main_keyword='intervención'
+2025/07/30 13:02:13 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:02:13 PM - src.logger - INFO - Index: 449. Output: institution='real plaza' keywords=['protesta', 'justicia', 'impunidad', 'tragedia', 'infraestructura'] main_keyword='tragedia'
+2025/07/30 13:02:14 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:02:14 PM - src.logger - INFO - Index: 450. Output: institution='plaza vea' keywords=['clausura', 'subsanar'] main_keyword='clausura'
+2025/07/30 13:02:15 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:02:15 PM - src.logger - INFO - Index: 451. Output: institution='mall aventura' keywords=['infraestructura', 'mantenimiento'] main_keyword='infraestructura'
+2025/07/30 13:02:17 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:02:17 PM - src.logger - INFO - Index: 452. Output: institution='ripley perú' keywords=['despidos', 'precarización', 'trabajo'] main_keyword='despidos'
+2025/07/30 13:02:18 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:02:18 PM - src.logger - INFO - Index: 453. Output: institution='inkafarma' keywords=['filtración', 'datos sensibles'] main_keyword='filtración'
+2025/07/30 13:02:19 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:02:19 PM - src.logger - INFO - Index: 454. Output: institution='inkafarma' keywords=['hackeo', 'filtración', 'datos', 'clientes', 'seguridad'] main_keyword='hackeo'
+2025/07/30 13:02:20 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:02:20 PM - src.logger - INFO - Index: 455. Output: institution='mall plaza' keywords=['abandono', 'indignación'] main_keyword='indignación'
+2025/07/30 13:02:21 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:02:21 PM - src.logger - INFO - Index: 456. Output: institution='real plaza' keywords=['infraestructura', 'intimidación', 'inspección'] main_keyword='infraestructura'
+2025/07/30 13:02:22 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:02:22 PM - src.logger - INFO - Index: 457. Output: institution='municipalidad de pisco' keywords=['clausura', 'seguridad', 'infraestructura'] main_keyword='clausura'
+2025/07/30 13:02:23 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:02:23 PM - src.logger - INFO - Index: 458. Output: institution='none' keywords=['clausura', 'fallas de seguridad', 'condiciones insalubres'] main_keyword='clausura'
+2025/07/30 13:02:24 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:02:24 PM - src.logger - INFO - Index: 459. Output: institution='mall plaza' keywords=['infraestructura'] main_keyword='infraestructura'
+2025/07/30 13:02:25 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:02:25 PM - src.logger - INFO - Index: 460. Output: institution='megaplaza' keywords=['apertura', 'retraso'] main_keyword='retraso'
+2025/07/30 13:02:25 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:02:25 PM - src.logger - INFO - Index: 461. Output: institution='mall plaza' keywords=['cierre', 'afluencia'] main_keyword='cierre'
+2025/07/30 13:02:26 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:02:26 PM - src.logger - INFO - Index: 462. Output: institution='plaza vea' keywords=['hurto', 'delincuencia'] main_keyword='hurto'
+2025/07/30 13:02:27 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:02:27 PM - src.logger - INFO - Index: 463. Output: institution='plaza lima sur' keywords=['infraestructura', 'sismo'] main_keyword='infraestructura'
+2025/07/30 13:02:28 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:02:28 PM - src.logger - INFO - Index: 464. Output: institution='plaza lima sur' keywords=['infraestructura', 'caída'] main_keyword='caída'
+2025/07/30 13:02:29 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:02:29 PM - src.logger - INFO - Index: 465. Output: institution='mall plaza trujillo' keywords=['riesgo', 'seguridad'] main_keyword='riesgo'
+2025/07/30 13:02:30 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:02:30 PM - src.logger - INFO - Index: 466. Output: institution='open plaza pucallpa' keywords=['clausura', 'medidas de seguridad', 'riesgo'] main_keyword='clausura'
+2025/07/30 13:02:31 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:02:31 PM - src.logger - INFO - Index: 467. Output: institution='plaza lima sur' keywords=['clausura', 'infraestructura', 'sismo'] main_keyword='clausura'
+2025/07/30 13:02:33 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:02:33 PM - src.logger - INFO - Index: 468. Output: institution='plaza del sol' keywords=['reapertura', 'observaciones', 'municipalidad'] main_keyword='reapertura'
+2025/07/30 13:02:34 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:02:34 PM - src.logger - INFO - Index: 469. Output: institution='plaza lima sur' keywords=['clausura', 'infraestructura'] main_keyword='clausura'
+2025/07/30 13:02:35 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:02:35 PM - src.logger - INFO - Index: 470. Output: institution='grupo patio' keywords=['clausura', 'pérdidas', 'infraestructura'] main_keyword='clausura'
+2025/07/30 13:02:36 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:02:36 PM - src.logger - INFO - Index: 471. Output: institution='plaza vea' keywords=['deficiencias', 'infraestructura', 'seguridad'] main_keyword='deficiencias'
+2025/07/30 13:02:37 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:02:37 PM - src.logger - INFO - Index: 472. Output: institution='ex megaplaza pisco' keywords=['cierre'] main_keyword='cierre'
+2025/07/30 13:02:38 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:02:38 PM - src.logger - INFO - Index: 473. Output: institution='real plaza' keywords=['accidente', 'infraestructura'] main_keyword='accidente'
+2025/07/30 13:02:39 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:02:39 PM - src.logger - INFO - Index: 474. Output: institution='intercorp' keywords=['falta de apoyo', 'investigación'] main_keyword='falta de apoyo'
+2025/07/30 13:02:40 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:02:40 PM - src.logger - INFO - Index: 475. Output: institution='plaza del sol' keywords=['apertura', 'clausura', 'infraestructura', 'riesgos'] main_keyword='apertura'
+2025/07/30 13:02:41 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:02:41 PM - src.logger - INFO - Index: 476. Output: institution='inretail pharma' keywords=['convenio', 'sindicato'] main_keyword='convenio'
+2025/07/30 13:02:42 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:02:42 PM - src.logger - INFO - Index: 477. Output: institution='real plaza' keywords=['protesta', 'reapertura', 'empleos'] main_keyword='protesta'
+2025/07/30 13:02:43 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:02:43 PM - src.logger - INFO - Index: 478. Output: institution='inkafarma, mifarma' keywords=['transparencia', 'información', 'derecho a elegir'] main_keyword='transparencia'
+2025/07/30 13:02:44 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:02:44 PM - src.logger - INFO - Index: 479. Output: institution='plaza vea' keywords=['cierre', 'pérdida', 'sorpresa'] main_keyword='cierre'
+2025/07/30 13:02:45 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:02:45 PM - src.logger - INFO - Index: 480. Output: institution='None' keywords=['incidente', 'seguridad'] main_keyword='incidente'
+2025/07/30 13:02:46 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:02:46 PM - src.logger - INFO - Index: 481. Output: institution='plaza vea' keywords=['cierre', 'reputación'] main_keyword='cierre'
+2025/07/30 13:02:47 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:02:47 PM - src.logger - INFO - Index: 482. Output: institution='intercorp' keywords=['cierre', 'falta de información'] main_keyword='cierre'
+2025/07/30 13:02:48 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:02:48 PM - src.logger - INFO - Index: 483. Output: institution='mall plaza' keywords=['accidente'] main_keyword='accidente'
+2025/07/30 13:02:49 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:02:49 PM - src.logger - INFO - Index: 484. Output: institution='real plaza' keywords=['accidente', 'mantenimiento', 'deterioro'] main_keyword='accidente'
+2025/07/30 13:02:50 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:02:50 PM - src.logger - INFO - Index: 485. Output: institution='metro' keywords=['clausura', 'seguridad', 'infraestructura'] main_keyword='clausura'
+2025/07/30 13:02:51 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:02:51 PM - src.logger - INFO - Index: 486. Output: institution='mall plaza' keywords=['infraestructura'] main_keyword='infraestructura'
+2025/07/30 13:02:52 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:02:52 PM - src.logger - INFO - Index: 487. Output: institution='plaza vea' keywords=['infraestructura', 'problemas', 'agua'] main_keyword='infraestructura'
+2025/07/30 13:02:52 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:02:52 PM - src.logger - INFO - Index: 488. Output: institution='None' keywords=['extorsión'] main_keyword='extorsión'
+2025/07/30 13:02:53 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:02:53 PM - src.logger - INFO - Index: 489. Output: institution='real plaza' keywords=['desaparición', 'trabajo'] main_keyword='desaparición'
+2025/07/30 13:02:54 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:02:54 PM - src.logger - INFO - Index: 490. Output: institution='real plaza' keywords=['desaparición'] main_keyword='desaparición'
+2025/07/30 13:02:55 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:02:55 PM - src.logger - INFO - Index: 491. Output: institution='larcomar' keywords=['seguridad', 'violencia', 'extorsión', 'críticas'] main_keyword='seguridad'
+2025/07/30 13:02:56 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:02:56 PM - src.logger - INFO - Index: 492. Output: institution='None' keywords=['crimen', 'presupuesto'] main_keyword='crimen'
+2025/07/30 13:02:57 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:02:57 PM - src.logger - INFO - Index: 493. Output: institution='plaza vea' keywords=['clausura', 'normas de seguridad'] main_keyword='clausura'
+2025/07/30 13:02:58 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:02:58 PM - src.logger - INFO - Index: 494. Output: institution='mall aventura porongoche' keywords=['feria', 'moda', 'ofertas'] main_keyword='ofertas'
+2025/07/30 13:02:59 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:02:59 PM - src.logger - INFO - Index: 495. Output: institution='real plaza' keywords=['delincuencia', 'tragedia'] main_keyword='delincuencia'
+2025/07/30 13:03:00 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:03:00 PM - src.logger - INFO - Index: 496. Output: institution='open plaza' keywords=['incendio'] main_keyword='incendio'
+2025/07/30 13:03:01 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:03:01 PM - src.logger - INFO - Index: 497. Output: institution='real plaza' keywords=['desaparecidos', 'accidente', 'infraestructura'] main_keyword='desaparecidos'
+2025/07/30 13:03:02 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:03:02 PM - src.logger - INFO - Index: 498. Output: institution='larcomar' keywords=['estado de emergencia', 'crítica'] main_keyword='crítica'
+2025/07/30 13:03:03 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:03:03 PM - src.logger - INFO - Index: 499. Output: institution='cencosud' keywords=['cierre'] main_keyword='cierre'
+2025/07/30 13:03:03 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:03:03 PM - src.logger - INFO - Index: 500. Output: institution='mega plaza' keywords=['robo', 'delivery'] main_keyword='robo'
+2025/07/30 13:03:04 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:03:04 PM - src.logger - INFO - Index: 501. Output: institution='plaza norte' keywords=['incidente', 'evidencia'] main_keyword='incidente'
+2025/07/30 13:03:06 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:03:06 PM - src.logger - INFO - Index: 502. Output: institution='megaplaza chimbote' keywords=['clausura', 'observaciones'] main_keyword='clausura'
+2025/07/30 13:03:07 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:03:07 PM - src.logger - INFO - Index: 503. Output: institution='wong' keywords=['cierre', 'decisión', 'sorpresa'] main_keyword='cierre'
+2025/07/30 13:03:08 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:03:08 PM - src.logger - INFO - Index: 504. Output: institution='o2 medical network' keywords=['negligencia médica', 'alerta sanitaria', 'reacción adversa'] main_keyword='negligencia médica'
+2025/07/30 13:03:09 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:03:09 PM - src.logger - INFO - Index: 505. Output: institution='real plaza' keywords=['tragedia', 'sobreviviente'] main_keyword='tragedia'
+2025/07/30 13:03:09 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:03:09 PM - src.logger - INFO - Index: 506. Output: institution='none' keywords=['justicia'] main_keyword='justicia'
+2025/07/30 13:03:10 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:03:10 PM - src.logger - INFO - Index: 507. Output: institution='plaza norte' keywords=['explotación', 'criminal', 'mafia'] main_keyword='explotación'
+2025/07/30 13:03:11 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:03:11 PM - src.logger - INFO - Index: 508. Output: institution='open plaza' keywords=['infraestructura', 'cerrado'] main_keyword='cerrado'
+2025/07/30 13:03:12 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:03:12 PM - src.logger - INFO - Index: 509. Output: institution='sodimac' keywords=['transparencia', 'utilidades'] main_keyword='transparencia'
+2025/07/30 13:03:13 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:03:13 PM - src.logger - INFO - Index: 510. Output: institution='none' keywords=['explotación', 'crimen organizado', 'secuestro'] main_keyword='explotación'
+2025/07/30 13:03:14 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:03:14 PM - src.logger - INFO - Index: 511. Output: institution='real plaza' keywords=['cambio de nombre', 'tragedia'] main_keyword='cambio de nombre'
+2025/07/30 13:03:15 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:03:15 PM - src.logger - INFO - Index: 512. Output: institution='mall plaza' keywords=['infraestructura', 'preocupación'] main_keyword='infraestructura'
+2025/07/30 13:03:16 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:03:16 PM - src.logger - INFO - Index: 513. Output: institution='mega plaza' keywords=['robo', 'recuperación', 'vehículos', 'seguridad'] main_keyword='robo'
+2025/07/30 13:03:16 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:03:16 PM - src.logger - INFO - Index: 514. Output: institution='falabella' keywords=['multa', 'promoción'] main_keyword='multa'
+2025/07/30 13:03:17 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:03:17 PM - src.logger - INFO - Index: 515. Output: institution='plaza vea' keywords=['incendio', 'emergencia'] main_keyword='incendio'
+2025/07/30 13:03:18 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:03:18 PM - src.logger - INFO - Index: 516. Output: institution='supermercado metro' keywords=['delincuencia', 'hurtos', 'seguridad'] main_keyword='delincuencia'
+2025/07/30 13:03:19 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:03:19 PM - src.logger - INFO - Index: 517. Output: institution='real plaza' keywords=['denuncia', 'colapso', 'fallas', 'estructura'] main_keyword='fallas'
+2025/07/30 13:03:20 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:03:20 PM - src.logger - INFO - Index: 518. Output: institution='real plaza' keywords=['responsabilidad', 'deficiencias'] main_keyword='responsabilidad'
+2025/07/30 13:03:21 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:03:21 PM - src.logger - INFO - Index: 519. Output: institution='megaplaza' keywords=['cesación', 'reapertura', 'mantenimiento'] main_keyword='reapertura'
+2025/07/30 13:03:22 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:03:22 PM - src.logger - INFO - Index: 520. Output: institution='ripley' keywords=['represalias', 'privacidad', 'seguridad'] main_keyword='represalias'
+2025/07/30 13:03:23 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:03:23 PM - src.logger - INFO - Index: 521. Output: institution='real plaza' keywords=['delincuencia', 'robo'] main_keyword='delincuencia'
+2025/07/30 13:03:24 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:03:24 PM - src.logger - INFO - Index: 522. Output: institution='real plaza' keywords=['tiroteo', 'robo', 'alarma'] main_keyword='tiroteo'
+2025/07/30 13:03:24 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:03:24 PM - src.logger - INFO - Index: 523. Output: institution='real plaza' keywords=['asalto', 'delincuentes'] main_keyword='asalto'
+2025/07/30 13:03:26 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:03:26 PM - src.logger - INFO - Index: 524. Output: institution='plaza vea' keywords=['animal', 'seguridad'] main_keyword='animal'
+2025/07/30 13:03:27 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:03:27 PM - src.logger - INFO - Index: 525. Output: institution='clinica o2' keywords=['fallecimiento', 'medicamento', 'intervención', 'salud'] main_keyword='fallecimiento'
+2025/07/30 13:03:28 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:03:28 PM - src.logger - INFO - Index: 526. Output: institution='real plaza' keywords=['incidente', 'emergencia'] main_keyword='incidente'
+2025/07/30 13:03:28 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:03:28 PM - src.logger - INFO - Index: 527. Output: institution='mall plaza' keywords=['infraestructura', 'colapso'] main_keyword='colapso'
+2025/07/30 13:03:29 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:03:29 PM - src.logger - INFO - Index: 528. Output: institution='megaplaza' keywords=['asalto'] main_keyword='asalto'
+2025/07/30 13:03:31 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:03:31 PM - src.logger - INFO - Index: 529. Output: institution='megaplaza' keywords=['asalto'] main_keyword='asalto'
+2025/07/30 13:03:32 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:03:32 PM - src.logger - INFO - Index: 530. Output: institution='megaplaza' keywords=['asalto', 'inseguridad'] main_keyword='asalto'
+2025/07/30 13:03:33 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:03:33 PM - src.logger - INFO - Index: 531. Output: institution='mega plaza' keywords=['robo', 'delincuencia'] main_keyword='robo'
+2025/07/30 13:03:34 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:03:34 PM - src.logger - INFO - Index: 532. Output: institution='megaplaza' keywords=['delincuencia', 'asalto', 'pánico'] main_keyword='asalto'
+2025/07/30 13:03:35 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:03:35 PM - src.logger - INFO - Index: 533. Output: institution='mega plaza' keywords=['asalto', 'delincuencia'] main_keyword='asalto'
+2025/07/30 13:03:36 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:03:36 PM - src.logger - INFO - Index: 534. Output: institution='megaplaza' keywords=['asalto', 'delincuencia'] main_keyword='asalto'
+2025/07/30 13:03:37 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:03:37 PM - src.logger - INFO - Index: 535. Output: institution='megaplaza' keywords=['delincuencia', 'asalto'] main_keyword='asalto'
+2025/07/30 13:03:38 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:03:38 PM - src.logger - INFO - Index: 536. Output: institution='megaplaza' keywords=['delincuencia', 'robo'] main_keyword='delincuencia'
+2025/07/30 13:03:39 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:03:39 PM - src.logger - INFO - Index: 537. Output: institution='megaplaza' keywords=['robo'] main_keyword='robo'
+2025/07/30 13:03:40 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:03:40 PM - src.logger - INFO - Index: 538. Output: institution='megaplaza' keywords=['asalto', 'recupero'] main_keyword='asalto'
+2025/07/30 13:03:41 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:03:41 PM - src.logger - INFO - Index: 539. Output: institution='entel' keywords=['delincuencia', 'intimidación'] main_keyword='delincuencia'
+2025/07/30 13:03:42 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:03:42 PM - src.logger - INFO - Index: 540. Output: institution='real plaza' keywords=['asalto', 'delincuencia'] main_keyword='asalto'
+2025/07/30 13:03:43 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:03:43 PM - src.logger - INFO - Index: 541. Output: institution='mall plaza' keywords=['robo', 'delincuencia'] main_keyword='robo'
+2025/07/30 13:03:44 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:03:44 PM - src.logger - INFO - Index: 542. Output: institution='saga falabella' keywords=['hurto', 'estafa'] main_keyword='estafa'
+2025/07/30 13:03:45 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:03:45 PM - src.logger - INFO - Index: 543. Output: institution='mall plaza' keywords=['robo', 'delincuencia', 'violencia'] main_keyword='robo'
+2025/07/30 13:03:46 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:03:46 PM - src.logger - INFO - Index: 544. Output: institution='ripley' keywords=['remuneración', 'precarización', 'condiciones laborales'] main_keyword='precarización'
+2025/07/30 13:03:47 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:03:47 PM - src.logger - INFO - Index: 545. Output: institution='larcomar' keywords=['incendio'] main_keyword='incendio'
+2025/07/30 13:03:48 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:03:48 PM - src.logger - INFO - Index: 546. Output: institution='larcomar' keywords=['incendio', 'emergencia'] main_keyword='incendio'
+2025/07/30 13:03:49 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:03:49 PM - src.logger - INFO - Index: 547. Output: institution='plaza vea' keywords=['multas', 'retención', 'imagen', 'clienta'] main_keyword='multas'
+2025/07/30 13:03:50 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:03:50 PM - src.logger - INFO - Index: 548. Output: institution='None' keywords=['crimen', 'asesinato'] main_keyword='crimen'
+2025/07/30 13:03:52 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:03:52 PM - src.logger - INFO - Index: 549. Output: institution='None' keywords=['crimen', 'sicariato'] main_keyword='crimen'
+2025/07/30 13:03:53 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:03:53 PM - src.logger - INFO - Index: 550. Output: institution='mall plaza' keywords=['seguridad', 'armas', 'descubrimiento'] main_keyword='seguridad'
+2025/07/30 13:03:53 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:03:53 PM - src.logger - INFO - Index: 551. Output: institution='arequipa center' keywords=['asalto', 'robo', 'seguridad'] main_keyword='robo'
+2025/07/30 13:03:54 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:03:54 PM - src.logger - INFO - Index: 552. Output: institution='mall plaza' keywords=['robo', 'delincuencia'] main_keyword='robo'
+2025/07/30 13:03:56 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:03:56 PM - src.logger - INFO - Index: 553. Output: institution='mall plaza' keywords=['robo', 'peligro'] main_keyword='peligro'
+2025/07/30 13:03:56 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:03:56 PM - src.logger - INFO - Index: 554. Output: institution='mall plaza' keywords=['tensión', 'violencia'] main_keyword='tensión'
+2025/07/30 13:03:58 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:03:58 PM - src.logger - INFO - Index: 555. Output: institution='inkafarma' keywords=['hurto', 'seguridad'] main_keyword='hurto'
+2025/07/30 13:03:58 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:03:58 PM - src.logger - INFO - Index: 556. Output: institution='mall plaza' keywords=['robo', 'violencia'] main_keyword='robo'
+2025/07/30 13:03:59 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:03:59 PM - src.logger - INFO - Index: 557. Output: institution='inkafarma' keywords=['robo', 'delincuencia'] main_keyword='robo'
+2025/07/30 13:04:00 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:04:00 PM - src.logger - INFO - Index: 558. Output: institution='makro' keywords=['accidente'] main_keyword='accidente'
+2025/07/30 13:04:01 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:04:01 PM - src.logger - INFO - Index: 559. Output: institution='real plaza' keywords=['accidente', 'seguridad'] main_keyword='accidente'
+2025/07/30 13:04:02 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:04:02 PM - src.logger - INFO - Index: 560. Output: institution='real plaza' keywords=['accidente', 'seguridad'] main_keyword='accidente'
+2025/07/30 13:04:03 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:04:03 PM - src.logger - INFO - Index: 561. Output: institution='real plaza' keywords=['accidente', 'infraestructura', 'salud', 'seguridad'] main_keyword='accidente'
+2025/07/30 13:04:04 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:04:04 PM - src.logger - INFO - Index: 562. Output: institution='metro' keywords=['accidente', 'tragedia'] main_keyword='accidente'
+2025/07/30 13:04:05 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:04:05 PM - src.logger - INFO - Index: 563. Output: institution='real plaza' keywords=['accidente', 'seguridad'] main_keyword='accidente'
+2025/07/30 13:04:06 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:04:06 PM - src.logger - INFO - Index: 564. Output: institution='plaza vea' keywords=['estafa', 'delito'] main_keyword='estafa'
+2025/07/30 13:04:07 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:04:07 PM - src.logger - INFO - Index: 565. Output: institution='mall aventura iquitos' keywords=['infraestructura', 'incidente'] main_keyword='incidente'
+2025/07/30 13:04:08 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:04:08 PM - src.logger - INFO - Index: 566. Output: institution='real plaza' keywords=['sanción', 'agresión', 'seguridad'] main_keyword='sanción'
+2025/07/30 13:04:09 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:04:09 PM - src.logger - INFO - Index: 567. Output: institution='real plaza' keywords=['multa', 'agresión', 'protocolos', 'seguridad'] main_keyword='multa'
+2025/07/30 13:04:10 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:04:10 PM - src.logger - INFO - Index: 568. Output: institution='real plaza' keywords=['escándalo', 'multa', 'abuso'] main_keyword='escándalo'
+2025/07/30 13:04:11 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:04:11 PM - src.logger - INFO - Index: 569. Output: institution='real plaza' keywords=['accidente', 'atropello'] main_keyword='accidente'
+2025/07/30 13:04:12 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:04:12 PM - src.logger - INFO - Index: 570. Output: institution='open plaza' keywords=['seguridad', 'infraestructura', 'exposición al riesgo'] main_keyword='infraestructura'
+2025/07/30 13:04:13 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:04:13 PM - src.logger - INFO - Index: 571. Output: institution='open plaza' keywords=['infraestructura'] main_keyword='infraestructura'
+2025/07/30 13:04:18 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:04:18 PM - src.logger - INFO - Index: 572. Output: institution='tambo' keywords=['robo'] main_keyword='robo'
+2025/07/30 13:04:20 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:04:20 PM - src.logger - INFO - Index: 573. Output: institution='intercorp' keywords=['hackeo', 'filtración', 'datos sensibles'] main_keyword='hackeo'
+2025/07/30 13:04:21 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:04:21 PM - src.logger - INFO - Index: 574. Output: institution='makro' keywords=['accidente'] main_keyword='accidente'
+2025/07/30 13:04:22 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:04:22 PM - src.logger - INFO - Index: 575. Output: institution='makro' keywords=['accidente', 'fuga', 'lesiones'] main_keyword='accidente'
+2025/07/30 13:04:23 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:04:23 PM - src.logger - INFO - Index: 576. Output: institution='plaza vea' keywords=['accidente', 'estado de ebriedad'] main_keyword='accidente'
+2025/07/30 13:04:24 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:04:24 PM - src.logger - INFO - Index: 577. Output: institution='real plaza' keywords=['extorsión'] main_keyword='extorsión'
+2025/07/30 13:04:25 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:04:25 PM - src.logger - INFO - Index: 578. Output: institution='real plaza' keywords=['extorsión'] main_keyword='extorsión'
+2025/07/30 13:04:26 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:04:26 PM - src.logger - INFO - Index: 579. Output: institution='inkafarma' keywords=['robo', 'seguridad', 'alarma'] main_keyword='robo'
+2025/07/30 13:04:27 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:04:27 PM - src.logger - INFO - Index: 580. Output: institution='inkafarma' keywords=['asalto'] main_keyword='asalto'
+2025/07/30 13:04:28 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:04:28 PM - src.logger - INFO - Index: 581. Output: institution='inkafarma' keywords=['asalto', 'policía', 'legitimidad'] main_keyword='asalto'
+2025/07/30 13:04:29 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:04:29 PM - src.logger - INFO - Index: 582. Output: institution='inkafarma' keywords=['robo'] main_keyword='robo'
+2025/07/30 13:04:31 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:04:31 PM - src.logger - INFO - Index: 583. Output: institution='open plaza' keywords=['pelea', 'alcohol'] main_keyword='pelea'
+2025/07/30 13:04:32 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:04:32 PM - src.logger - INFO - Index: 584. Output: institution='inkafarma' keywords=['multa', 'residuos', 'salubridad'] main_keyword='multa'
+2025/07/30 13:04:32 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:04:32 PM - src.logger - INFO - Index: 585. Output: institution='metro' keywords=['robo', 'seguridad'] main_keyword='robo'
+2025/07/30 13:04:33 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:04:34 PM - src.logger - INFO - Index: 586. Output: institution='jockey plaza' keywords=['balacera'] main_keyword='balacera'
+2025/07/30 13:04:34 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:04:34 PM - src.logger - INFO - Index: 587. Output: institution='none' keywords=['crimen', 'tiroteo'] main_keyword='crimen'
+2025/07/30 13:04:35 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:04:35 PM - src.logger - INFO - Index: 588. Output: institution='jockey plaza' keywords=['gresca', 'alarma'] main_keyword='gresca'
+2025/07/30 13:04:36 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:04:36 PM - src.logger - INFO - Index: 589. Output: institution='none' keywords=['tiroteo'] main_keyword='tiroteo'
+2025/07/30 13:04:37 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:04:37 PM - src.logger - INFO - Index: 590. Output: institution='jockey plaza' keywords=['disparo', 'incidente'] main_keyword='incidente'
+2025/07/30 13:04:38 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:04:38 PM - src.logger - INFO - Index: 591. Output: institution='jockey plaza' keywords=['gresca', 'pánico'] main_keyword='gresca'
+2025/07/30 13:04:39 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:04:39 PM - src.logger - INFO - Index: 592. Output: institution='jockey plaza' keywords=['disputa', 'extorsión'] main_keyword='extorsión'
+2025/07/30 13:04:40 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:04:40 PM - src.logger - INFO - Index: 593. Output: institution='real plaza' keywords=['accidente'] main_keyword='accidente'
+2025/07/30 13:04:41 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:04:41 PM - src.logger - INFO - Index: 594. Output: institution='mall aventura plaza' keywords=['hurto', 'menores', 'delito'] main_keyword='delito'
+2025/07/30 13:04:42 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:04:42 PM - src.logger - INFO - Index: 595. Output: institution='mall aventura plaza' keywords=['hurto', 'delincuencia'] main_keyword='hurto'
+2025/07/30 13:04:44 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:04:44 PM - src.logger - INFO - Index: 596. Output: institution='real plaza' keywords=['infraestructura', 'colapso', 'mortalidad', 'contradicción'] main_keyword='colapso'
+2025/07/30 13:04:44 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:04:44 PM - src.logger - INFO - Index: 597. Output: institution='real plaza' keywords=['denuncia', 'infraestructura', 'colapso'] main_keyword='colapso'
+2025/07/30 13:04:45 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:04:45 PM - src.logger - INFO - Index: 598. Output: institution='None' keywords=['accidente', 'responsabilidad', 'investigación'] main_keyword='accidente'
+2025/07/30 13:04:46 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:04:46 PM - src.logger - INFO - Index: 599. Output: institution='plaza vea' keywords=['accidente', 'infraestructura'] main_keyword='accidente'
+2025/07/30 13:04:48 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:04:48 PM - src.logger - INFO - Index: 600. Output: institution='plaza vea' keywords=['accidente', 'seguridad', 'lesiones'] main_keyword='accidente'
+2025/07/30 13:04:49 PM - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025/07/30 13:04:49 PM - src.logger - INFO - Index: 601. Output: institution='plaza vea' keywords=['accidente', 'infraestructura'] main_keyword='accidente'
