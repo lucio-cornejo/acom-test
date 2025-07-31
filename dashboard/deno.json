@@ -17,6 +17,7 @@
     "@types/react": "npm:@types/react@^19.0.10",
     "@types/react-dom": "npm:@types/react-dom@^19.0.4",
     "@vitejs/plugin-react": "npm:@vitejs/plugin-react@^4.3.4",
+    "@ant-design/icons": "npm:@ant-design/icons@^6.0.0",
     "antd": "npm:antd@5.24.8",
     "arquero": "npm:arquero@7.2.0",
     "react": "npm:react@18.3.1",
@@ -26,6 +27,7 @@
     "vite-plugin-env-compatible": "npm:vite-plugin-env-compatible@2.0.1",
     "dayjs": "npm:dayjs@1.11.13",
     "react-plotly.js": "npm:react-plotly.js@2.6.0",
-    "plotly.js-dist": "npm:plotly.js-dist@3.0.3" 
+    "plotly.js-dist": "npm:plotly.js-dist@3.0.3",
+    "sass": "npm:sass@^1.83.4"
   }
 }

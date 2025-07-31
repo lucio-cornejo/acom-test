@@ -1,1 +1,1 @@
-export const categoricalNaReplacement = 'Sin asignar';
+export const categoricalNaReplacement = 'sin asignar';

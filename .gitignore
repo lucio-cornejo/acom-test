@@ -3,4 +3,8 @@ __pycache__
 venv
 .env
 
+.vscode
+build
+node_modules
+
 notes.md

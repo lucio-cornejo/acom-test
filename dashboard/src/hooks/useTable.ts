@@ -39,6 +39,14 @@ const useTable = (): useTableReturn => {
         .imputeMissingCategories(["institution"])
         .parseObjectColumns(["keywords"])
         .getTable()
+        .derive({
+          institution: aq.escape((d: Struct) => (d
+            .institution as string)
+            .replace(/\s+/g, ' ')
+            .toLowerCase()
+            .trim()
+          )
+        })
 
       setIsTableLoaded(true);
     };

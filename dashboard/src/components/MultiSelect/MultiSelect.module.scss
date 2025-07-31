@@ -1,0 +1,28 @@
+// .multiselect-label {
+//   width: 100%;
+// }
+
+// .multiple-select-mode-shifted-item-remover {
+//   :global(.ant-select-selection-item-remove) {
+//     position: absolute;
+//     top: 25%;
+//     left: 0;
+//   }
+// }
+
+// .single-select-mode-shifted-item-remover {
+//   :global(.ant-select-clear) {
+//     position: absolute;
+//     top: 50%;
+//     left: 10px;
+//   }
+// }
+
+// .custom-multi-select {
+//   --minFilterWidth: 300px;
+
+//   :global(.ant-select-selector) {
+//     min-width: calc(0.8 * var(--minFilterWidth));
+//     max-width: 100%;
+//   }
+// }
