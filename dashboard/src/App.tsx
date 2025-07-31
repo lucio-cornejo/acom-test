@@ -59,35 +59,39 @@ function App() {
   if (!isTableLoaded) return <LoadingIcon />;
 
   return (
-    <div className="app-container">
-      <div>
-        <MultiSelect
-          selectMode='single'
-          displaceItemRemover
-          placeholder='Seleccione institución'
-          options={uniqueInstitutions.map(i => ({ label: i, value: i }))}
-          handleChange={(selectedPDvs) => setSelectedInstitutions(selectedPDvs)}
-        />
-        <MultiSelect
-          selectMode='single'
-          displaceItemRemover
-          placeholder='Seleccione atributo de los datos'
-          options={stringAttributes}
-          handleChange={(attribute) => {
-            if (!attribute) return;
-            setStringAttribute(attribute);
-          }}
-        />
-      </div>
+    <>
+      <h2>Nube de palabras, por institución</h2>
+      
+      <div className="app-container">
+        <div>
+          <MultiSelect
+            selectMode='single'
+            displaceItemRemover
+            placeholder='Seleccione institución'
+            options={uniqueInstitutions.map(i => ({ label: i, value: i }))}
+            handleChange={(selectedPDvs) => setSelectedInstitutions(selectedPDvs)}
+          />
+          <MultiSelect
+            selectMode='single'
+            displaceItemRemover
+            placeholder='Seleccione atributo de los datos'
+            options={stringAttributes}
+            handleChange={(attribute) => {
+              if (!attribute) return;
+              setStringAttribute(attribute);
+            }}
+          />
+        </div>
 
-      <div>
-        <WordsCloud 
-          data={filterDataRows(table.current, selectedInstitutions).objects()}
-          textField={stringAttribute}
-          title=""
-        />
+        <div>
+          <WordsCloud 
+            data={filterDataRows(table.current, selectedInstitutions).objects()}
+            textField={stringAttribute}
+            title=""
+          />
+        </div>
       </div>
-    </div>
+    </>
   )
 }
 

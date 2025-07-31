@@ -1,5 +1,5 @@
 import type { Struct } from "../utils/tableParser.ts";
-import type { MutableRefObject } from 'react';
+import type { RefObject } from 'react';
 
 import { TableParser } from "../utils/tableParser.ts";
 
@@ -9,10 +9,16 @@ import * as aq from 'arquero';
 
 
 interface useTableReturn {
-  table: MutableRefObject<aq.ColumnTable>;
+  table: RefObject<aq.ColumnTable>;
   isTableLoaded: boolean;
 }
 
+const institutionsMapping: Record<any, string> = {
+  "falabella" : "saga falabella",
+  "sagafalabella" : "saga falabella",
+  "promart s.a.c" : "promart",
+  "quimica suiza" : "química suiza",
+};
 
 const useTable = (): useTableReturn => {
   const table = useRef(aq.from([]));
@@ -46,6 +52,9 @@ const useTable = (): useTableReturn => {
             .toLowerCase()
             .trim()
           )
+        })
+        .derive({
+          institution: aq.escape((d: Struct) => institutionsMapping[d.institution] ?? d.institution)
         })
 
       setIsTableLoaded(true);
