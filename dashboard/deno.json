@@ -1,0 +1,31 @@
+{
+  "nodeModulesDir": "auto",
+  "tasks": {
+    "dev": "deno run -A --node-modules-dir npm:vite",
+    "build": "deno run -A --node-modules-dir npm:vite build",
+    "preview": "deno run -A --node-modules-dir npm:vite preview",
+    "serve": "deno run --allow-net --allow-read jsr:@std/http@1/file-server dist/"
+  },
+  "compilerOptions": {
+    "lib": ["ES2020", "DOM", "DOM.Iterable"],
+    "jsx": "react-jsx",
+    "jsxImportSource": "react",
+    "jsxImportSourceTypes": "@types/react"
+  },
+  "imports": {
+    "@deno/vite-plugin": "npm:@deno/vite-plugin@^1.0.4",
+    "@types/react": "npm:@types/react@^19.0.10",
+    "@types/react-dom": "npm:@types/react-dom@^19.0.4",
+    "@vitejs/plugin-react": "npm:@vitejs/plugin-react@^4.3.4",
+    "antd": "npm:antd@5.24.8",
+    "arquero": "npm:arquero@7.2.0",
+    "react": "npm:react@18.3.1",
+    "react-dom": "npm:react-dom@18.3.1",
+    "react-router-dom": "npm:react-router-dom@7.1.1",
+    "vite": "npm:vite@^6.1.1",
+    "vite-plugin-env-compatible": "npm:vite-plugin-env-compatible@2.0.1",
+    "dayjs": "npm:dayjs@1.11.13",
+    "react-plotly.js": "npm:react-plotly.js@2.6.0",
+    "plotly.js-dist": "npm:plotly.js-dist@3.0.3" 
+  }
+}
