@@ -1,6 +1,6 @@
 # Evaluación para puesto en ACOM
 
-## Etapa **procesamiento** pipeline
+## Etapa **procesamiento** del pipeline
 
 ### Preprocesamiento 
 
@@ -60,6 +60,19 @@ en la lista definida según el atributo `keywords`.
 De esa manera, todas las funciones de validación
 resultaron exitosas para la base de datos construída
 finalmente: `data/03_Dataset-prueba.csv`.
+
+
+## Etapa **Presentación** del pipeline
+
+- Con el fin de visualizar por medio de una nube de palabras, escogida una institución, 
+aquellas palabras más frecuentes entre las temáticas 
+principales (`main_keyword`) asignadas en los datos
+finalmente construídos, se construyó un Dashboard 
+interactivo alojado en la web.
+
+- Link del dashboard: <https://acom-test-dashboard.netlify.app/>
+- Código del dashboard: Todo el código presente en
+la carpeta `/dashboard`.
 
 
 ## Python dependencies
